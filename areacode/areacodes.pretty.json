@@ -5,7 +5,7 @@
   "areacodes": [
     {
       "areacode": 201,
-      "city_primary": "USEWR",
+      "primary_locode": "USEWR",
       "cities": [
         {
           "areacode": 201,
@@ -20,7 +20,7 @@
     },
     {
       "areacode": 202,
-      "city_primary": "USWAS",
+      "primary_locode": "USWAS",
       "cities": [
         {
           "areacode": 202,
@@ -35,7 +35,7 @@
     },
     {
       "areacode": 203,
-      "city_primary": "USHVN",
+      "primary_locode": "USHVN",
       "cities": [
         {
           "areacode": 203,
@@ -50,7 +50,7 @@
     },
     {
       "areacode": 204,
-      "city_primary": "CAWNP",
+      "primary_locode": "CAWNP",
       "cities": [
         {
           "areacode": 204,
@@ -65,7 +65,7 @@
     },
     {
       "areacode": 205,
-      "city_primary": "USBHM",
+      "primary_locode": "USBHM",
       "cities": [
         {
           "areacode": 205,
@@ -80,7 +80,7 @@
     },
     {
       "areacode": 206,
-      "city_primary": "USSEA",
+      "primary_locode": "USSEA",
       "cities": [
         {
           "areacode": 206,
@@ -95,7 +95,7 @@
     },
     {
       "areacode": 207,
-      "city_primary": "USPWM",
+      "primary_locode": "USPWM",
       "cities": [
         {
           "areacode": 207,
@@ -110,7 +110,7 @@
     },
     {
       "areacode": 208,
-      "city_primary": "USBOI",
+      "primary_locode": "USBOI",
       "cities": [
         {
           "areacode": 208,
@@ -125,7 +125,7 @@
     },
     {
       "areacode": 209,
-      "city_primary": "USFAT",
+      "primary_locode": "USFAT",
       "cities": [
         {
           "areacode": 209,
@@ -140,7 +140,7 @@
     },
     {
       "areacode": 210,
-      "city_primary": "USSAT",
+      "primary_locode": "USSAT",
       "cities": [
         {
           "areacode": 210,
@@ -155,7 +155,7 @@
     },
     {
       "areacode": 212,
-      "city_primary": "USNYC",
+      "primary_locode": "USNYC",
       "cities": [
         {
           "areacode": 212,
@@ -170,7 +170,7 @@
     },
     {
       "areacode": 213,
-      "city_primary": "USLAX",
+      "primary_locode": "USLAX",
       "cities": [
         {
           "areacode": 213,
@@ -185,7 +185,7 @@
     },
     {
       "areacode": 214,
-      "city_primary": "USDAL",
+      "primary_locode": "USDAL",
       "cities": [
         {
           "areacode": 214,
@@ -200,7 +200,7 @@
     },
     {
       "areacode": 215,
-      "city_primary": "USPHL",
+      "primary_locode": "USPHL",
       "cities": [
         {
           "areacode": 215,
@@ -215,7 +215,7 @@
     },
     {
       "areacode": 216,
-      "city_primary": "USCLE",
+      "primary_locode": "USCLE",
       "cities": [
         {
           "areacode": 216,
@@ -230,7 +230,7 @@
     },
     {
       "areacode": 217,
-      "city_primary": "USCHI",
+      "primary_locode": "USCHI",
       "cities": [
         {
           "areacode": 217,
@@ -245,7 +245,7 @@
     },
     {
       "areacode": 218,
-      "city_primary": "USDLH",
+      "primary_locode": "USDLH",
       "cities": [
         {
           "areacode": 218,
@@ -260,7 +260,7 @@
     },
     {
       "areacode": 219,
-      "city_primary": "USVPZ",
+      "primary_locode": "USVPZ",
       "cities": [
         {
           "areacode": 219,
@@ -275,7 +275,7 @@
     },
     {
       "areacode": 224,
-      "city_primary": "USCHI",
+      "primary_locode": "USCHI",
       "cities": [
         {
           "areacode": 224,
@@ -290,7 +290,7 @@
     },
     {
       "areacode": 225,
-      "city_primary": "USBTR",
+      "primary_locode": "USBTR",
       "cities": [
         {
           "areacode": 225,
@@ -305,7 +305,7 @@
     },
     {
       "areacode": 226,
-      "city_primary": "CALOD",
+      "primary_locode": "CALOD",
       "cities": [
         {
           "areacode": 226,
@@ -320,7 +320,7 @@
     },
     {
       "areacode": 228,
-      "city_primary": "USGPT",
+      "primary_locode": "USGPT",
       "cities": [
         {
           "areacode": 228,
@@ -335,7 +335,7 @@
     },
     {
       "areacode": 229,
-      "city_primary": "USABY",
+      "primary_locode": "USABY",
       "cities": [
         {
           "areacode": 229,
@@ -350,7 +350,7 @@
     },
     {
       "areacode": 231,
-      "city_primary": "USMKG",
+      "primary_locode": "USMKG",
       "cities": [
         {
           "areacode": 231,
@@ -365,7 +365,7 @@
     },
     {
       "areacode": 234,
-      "city_primary": "USAKH",
+      "primary_locode": "USAKH",
       "cities": [
         {
           "areacode": 234,
@@ -380,7 +380,7 @@
     },
     {
       "areacode": 236,
-      "city_primary": "CAVAN",
+      "primary_locode": "CAVAN",
       "cities": [
         {
           "areacode": 236,
@@ -395,7 +395,7 @@
     },
     {
       "areacode": 239,
-      "city_primary": "USFMY",
+      "primary_locode": "USFMY",
       "cities": [
         {
           "areacode": 239,
@@ -410,7 +410,7 @@
     },
     {
       "areacode": 240,
-      "city_primary": "USBAL",
+      "primary_locode": "USBAL",
       "cities": [
         {
           "areacode": 240,
@@ -425,7 +425,7 @@
     },
     {
       "areacode": 248,
-      "city_primary": "USDET",
+      "primary_locode": "USDET",
       "cities": [
         {
           "areacode": 248,
@@ -440,7 +440,7 @@
     },
     {
       "areacode": 249,
-      "city_primary": "CABAR",
+      "primary_locode": "CABAR",
       "cities": [
         {
           "areacode": 249,
@@ -455,7 +455,7 @@
     },
     {
       "areacode": 250,
-      "city_primary": "CAZEB",
+      "primary_locode": "CAZEB",
       "cities": [
         {
           "areacode": 250,
@@ -470,7 +470,7 @@
     },
     {
       "areacode": 251,
-      "city_primary": "USMOB",
+      "primary_locode": "USMOB",
       "cities": [
         {
           "areacode": 251,
@@ -485,7 +485,7 @@
     },
     {
       "areacode": 252,
-      "city_primary": "USPGV",
+      "primary_locode": "USPGV",
       "cities": [
         {
           "areacode": 252,
@@ -500,7 +500,7 @@
     },
     {
       "areacode": 253,
-      "city_primary": "USSEA",
+      "primary_locode": "USSEA",
       "cities": [
         {
           "areacode": 253,
@@ -515,7 +515,7 @@
     },
     {
       "areacode": 254,
-      "city_primary": "USILE",
+      "primary_locode": "USILE",
       "cities": [
         {
           "areacode": 254,
@@ -530,7 +530,7 @@
     },
     {
       "areacode": 256,
-      "city_primary": "USHSV",
+      "primary_locode": "USHSV",
       "cities": [
         {
           "areacode": 256,
@@ -545,7 +545,7 @@
     },
     {
       "areacode": 260,
-      "city_primary": "USFWA",
+      "primary_locode": "USFWA",
       "cities": [
         {
           "areacode": 260,
@@ -560,7 +560,7 @@
     },
     {
       "areacode": 262,
-      "city_primary": "USMKE",
+      "primary_locode": "USMKE",
       "cities": [
         {
           "areacode": 262,
@@ -575,7 +575,7 @@
     },
     {
       "areacode": 267,
-      "city_primary": "USPHL",
+      "primary_locode": "USPHL",
       "cities": [
         {
           "areacode": 267,
@@ -590,7 +590,7 @@
     },
     {
       "areacode": 269,
-      "city_primary": "USAZO",
+      "primary_locode": "USAZO",
       "cities": [
         {
           "areacode": 269,
@@ -605,7 +605,7 @@
     },
     {
       "areacode": 270,
-      "city_primary": "USBWG",
+      "primary_locode": "USBWG",
       "cities": [
         {
           "areacode": 270,
@@ -620,7 +620,7 @@
     },
     {
       "areacode": 272,
-      "city_primary": "USKJA",
+      "primary_locode": "USKJA",
       "cities": [
         {
           "areacode": 272,
@@ -635,7 +635,7 @@
     },
     {
       "areacode": 276,
-      "city_primary": "USMTV",
+      "primary_locode": "USMTV",
       "cities": [
         {
           "areacode": 276,
@@ -650,7 +650,7 @@
     },
     {
       "areacode": 281,
-      "city_primary": "USHOU",
+      "primary_locode": "USHOU",
       "cities": [
         {
           "areacode": 281,
@@ -665,7 +665,7 @@
     },
     {
       "areacode": 289,
-      "city_primary": "CAWDB",
+      "primary_locode": "CAWDB",
       "cities": [
         {
           "areacode": 289,
@@ -680,7 +680,7 @@
     },
     {
       "areacode": 301,
-      "city_primary": "USBAL",
+      "primary_locode": "USBAL",
       "cities": [
         {
           "areacode": 301,
@@ -695,7 +695,7 @@
     },
     {
       "areacode": 302,
-      "city_primary": "USILG",
+      "primary_locode": "USILG",
       "cities": [
         {
           "areacode": 302,
@@ -710,7 +710,7 @@
     },
     {
       "areacode": 303,
-      "city_primary": "USDEN",
+      "primary_locode": "USDEN",
       "cities": [
         {
           "areacode": 303,
@@ -725,7 +725,7 @@
     },
     {
       "areacode": 304,
-      "city_primary": "USCRW",
+      "primary_locode": "USCRW",
       "cities": [
         {
           "areacode": 304,
@@ -740,7 +740,7 @@
     },
     {
       "areacode": 305,
-      "city_primary": "USMIA",
+      "primary_locode": "USMIA",
       "cities": [
         {
           "areacode": 305,
@@ -755,7 +755,7 @@
     },
     {
       "areacode": 306,
-      "city_primary": "CAYQV",
+      "primary_locode": "CAYQV",
       "cities": [
         {
           "areacode": 306,
@@ -770,7 +770,7 @@
     },
     {
       "areacode": 307,
-      "city_primary": "USCPR",
+      "primary_locode": "USCPR",
       "cities": [
         {
           "areacode": 307,
@@ -785,7 +785,7 @@
     },
     {
       "areacode": 308,
-      "city_primary": "USGRI",
+      "primary_locode": "USGRI",
       "cities": [
         {
           "areacode": 308,
@@ -800,7 +800,7 @@
     },
     {
       "areacode": 309,
-      "city_primary": "USPIA",
+      "primary_locode": "USPIA",
       "cities": [
         {
           "areacode": 309,
@@ -815,7 +815,7 @@
     },
     {
       "areacode": 310,
-      "city_primary": "USLAX",
+      "primary_locode": "USLAX",
       "cities": [
         {
           "areacode": 310,
@@ -830,7 +830,7 @@
     },
     {
       "areacode": 312,
-      "city_primary": "USCHI",
+      "primary_locode": "USCHI",
       "cities": [
         {
           "areacode": 312,
@@ -845,7 +845,7 @@
     },
     {
       "areacode": 313,
-      "city_primary": "USDET",
+      "primary_locode": "USDET",
       "cities": [
         {
           "areacode": 313,
@@ -860,7 +860,7 @@
     },
     {
       "areacode": 314,
-      "city_primary": "USSTL",
+      "primary_locode": "USSTL",
       "cities": [
         {
           "areacode": 314,
@@ -875,7 +875,7 @@
     },
     {
       "areacode": 315,
-      "city_primary": "USSYR",
+      "primary_locode": "USSYR",
       "cities": [
         {
           "areacode": 315,
@@ -890,7 +890,7 @@
     },
     {
       "areacode": 316,
-      "city_primary": "USICT",
+      "primary_locode": "USICT",
       "cities": [
         {
           "areacode": 316,
@@ -905,7 +905,7 @@
     },
     {
       "areacode": 317,
-      "city_primary": "USIND",
+      "primary_locode": "USIND",
       "cities": [
         {
           "areacode": 317,
@@ -920,7 +920,7 @@
     },
     {
       "areacode": 318,
-      "city_primary": "USSHV",
+      "primary_locode": "USSHV",
       "cities": [
         {
           "areacode": 318,
@@ -935,7 +935,7 @@
     },
     {
       "areacode": 319,
-      "city_primary": "USCID",
+      "primary_locode": "USCID",
       "cities": [
         {
           "areacode": 319,
@@ -950,7 +950,7 @@
     },
     {
       "areacode": 320,
-      "city_primary": "USSTC",
+      "primary_locode": "USSTC",
       "cities": [
         {
           "areacode": 320,
@@ -965,7 +965,7 @@
     },
     {
       "areacode": 321,
-      "city_primary": "USORL",
+      "primary_locode": "USORL",
       "cities": [
         {
           "areacode": 321,
@@ -980,7 +980,7 @@
     },
     {
       "areacode": 323,
-      "city_primary": "USLAX",
+      "primary_locode": "USLAX",
       "cities": [
         {
           "areacode": 323,
@@ -995,7 +995,7 @@
     },
     {
       "areacode": 325,
-      "city_primary": "USABI",
+      "primary_locode": "USABI",
       "cities": [
         {
           "areacode": 325,
@@ -1010,7 +1010,7 @@
     },
     {
       "areacode": 330,
-      "city_primary": "USAKH",
+      "primary_locode": "USAKH",
       "cities": [
         {
           "areacode": 330,
@@ -1025,7 +1025,7 @@
     },
     {
       "areacode": 331,
-      "city_primary": "USLMJ",
+      "primary_locode": "USLMJ",
       "cities": [
         {
           "areacode": 331,
@@ -1040,7 +1040,7 @@
     },
     {
       "areacode": 334,
-      "city_primary": "USMGM",
+      "primary_locode": "USMGM",
       "cities": [
         {
           "areacode": 334,
@@ -1055,7 +1055,7 @@
     },
     {
       "areacode": 336,
-      "city_primary": "USGBO",
+      "primary_locode": "USGBO",
       "cities": [
         {
           "areacode": 336,
@@ -1070,7 +1070,7 @@
     },
     {
       "areacode": 337,
-      "city_primary": "USLFT",
+      "primary_locode": "USLFT",
       "cities": [
         {
           "areacode": 337,
@@ -1085,7 +1085,7 @@
     },
     {
       "areacode": 339,
-      "city_primary": "USBOS",
+      "primary_locode": "USBOS",
       "cities": [
         {
           "areacode": 339,
@@ -1100,7 +1100,7 @@
     },
     {
       "areacode": 340,
-      "city_primary": "VICHA",
+      "primary_locode": "VICHA",
       "cities": [
         {
           "areacode": 340,
@@ -1115,7 +1115,7 @@
     },
     {
       "areacode": 343,
-      "city_primary": "CAVKH",
+      "primary_locode": "CAVKH",
       "cities": [
         {
           "areacode": 343,
@@ -1130,7 +1130,7 @@
     },
     {
       "areacode": 346,
-      "city_primary": "USHOU",
+      "primary_locode": "USHOU",
       "cities": [
         {
           "areacode": 346,
@@ -1145,7 +1145,7 @@
     },
     {
       "areacode": 347,
-      "city_primary": "USBOY",
+      "primary_locode": "USBOY",
       "cities": [
         {
           "areacode": 347,
@@ -1160,7 +1160,7 @@
     },
     {
       "areacode": 351,
-      "city_primary": "USDVR",
+      "primary_locode": "USDVR",
       "cities": [
         {
           "areacode": 351,
@@ -1175,7 +1175,7 @@
     },
     {
       "areacode": 352,
-      "city_primary": "USGNV",
+      "primary_locode": "USGNV",
       "cities": [
         {
           "areacode": 352,
@@ -1190,7 +1190,7 @@
     },
     {
       "areacode": 360,
-      "city_primary": "USSEA",
+      "primary_locode": "USSEA",
       "cities": [
         {
           "areacode": 360,
@@ -1205,7 +1205,7 @@
     },
     {
       "areacode": 361,
-      "city_primary": "USCRP",
+      "primary_locode": "USCRP",
       "cities": [
         {
           "areacode": 361,
@@ -1220,7 +1220,7 @@
     },
     {
       "areacode": 365,
-      "city_primary": "CATOT",
+      "primary_locode": "CATOT",
       "cities": [
         {
           "areacode": 365,
@@ -1235,7 +1235,7 @@
     },
     {
       "areacode": 385,
-      "city_primary": "USSLC",
+      "primary_locode": "USSLC",
       "cities": [
         {
           "areacode": 385,
@@ -1250,7 +1250,7 @@
     },
     {
       "areacode": 386,
-      "city_primary": "USDAB",
+      "primary_locode": "USDAB",
       "cities": [
         {
           "areacode": 386,
@@ -1265,7 +1265,7 @@
     },
     {
       "areacode": 401,
-      "city_primary": "USPVD",
+      "primary_locode": "USPVD",
       "cities": [
         {
           "areacode": 401,
@@ -1280,7 +1280,7 @@
     },
     {
       "areacode": 402,
-      "city_primary": "USOMA",
+      "primary_locode": "USOMA",
       "cities": [
         {
           "areacode": 402,
@@ -1295,7 +1295,7 @@
     },
     {
       "areacode": 403,
-      "city_primary": "CACAL",
+      "primary_locode": "CACAL",
       "cities": [
         {
           "areacode": 403,
@@ -1310,7 +1310,7 @@
     },
     {
       "areacode": 404,
-      "city_primary": "USATL",
+      "primary_locode": "USATL",
       "cities": [
         {
           "areacode": 404,
@@ -1325,7 +1325,7 @@
     },
     {
       "areacode": 405,
-      "city_primary": "USOKC",
+      "primary_locode": "USOKC",
       "cities": [
         {
           "areacode": 405,
@@ -1340,7 +1340,7 @@
     },
     {
       "areacode": 406,
-      "city_primary": "USBIL",
+      "primary_locode": "USBIL",
       "cities": [
         {
           "areacode": 406,
@@ -1355,7 +1355,7 @@
     },
     {
       "areacode": 407,
-      "city_primary": "USORL",
+      "primary_locode": "USORL",
       "cities": [
         {
           "areacode": 407,
@@ -1370,7 +1370,7 @@
     },
     {
       "areacode": 408,
-      "city_primary": "USSJC",
+      "primary_locode": "USSJC",
       "cities": [
         {
           "areacode": 408,
@@ -1385,7 +1385,7 @@
     },
     {
       "areacode": 409,
-      "city_primary": "USBPT",
+      "primary_locode": "USBPT",
       "cities": [
         {
           "areacode": 409,
@@ -1400,7 +1400,7 @@
     },
     {
       "areacode": 410,
-      "city_primary": "USBAL",
+      "primary_locode": "USBAL",
       "cities": [
         {
           "areacode": 410,
@@ -1415,7 +1415,7 @@
     },
     {
       "areacode": 412,
-      "city_primary": "USPIT",
+      "primary_locode": "USPIT",
       "cities": [
         {
           "areacode": 412,
@@ -1430,7 +1430,7 @@
     },
     {
       "areacode": 413,
-      "city_primary": "USSFY",
+      "primary_locode": "USSFY",
       "cities": [
         {
           "areacode": 413,
@@ -1445,7 +1445,7 @@
     },
     {
       "areacode": 414,
-      "city_primary": "USMKE",
+      "primary_locode": "USMKE",
       "cities": [
         {
           "areacode": 414,
@@ -1460,7 +1460,7 @@
     },
     {
       "areacode": 415,
-      "city_primary": "USSFO",
+      "primary_locode": "USSFO",
       "cities": [
         {
           "areacode": 415,
@@ -1475,7 +1475,7 @@
     },
     {
       "areacode": 416,
-      "city_primary": "CATOR",
+      "primary_locode": "CATOR",
       "cities": [
         {
           "areacode": 416,
@@ -1490,7 +1490,7 @@
     },
     {
       "areacode": 417,
-      "city_primary": "USSGF",
+      "primary_locode": "USSGF",
       "cities": [
         {
           "areacode": 417,
@@ -1505,7 +1505,7 @@
     },
     {
       "areacode": 418,
-      "city_primary": "CAQUE",
+      "primary_locode": "CAQUE",
       "cities": [
         {
           "areacode": 418,
@@ -1520,7 +1520,7 @@
     },
     {
       "areacode": 419,
-      "city_primary": "USTOL",
+      "primary_locode": "USTOL",
       "cities": [
         {
           "areacode": 419,
@@ -1535,7 +1535,7 @@
     },
     {
       "areacode": 423,
-      "city_primary": "USCHA",
+      "primary_locode": "USCHA",
       "cities": [
         {
           "areacode": 423,
@@ -1550,7 +1550,7 @@
     },
     {
       "areacode": 424,
-      "city_primary": "USLAX",
+      "primary_locode": "USLAX",
       "cities": [
         {
           "areacode": 424,
@@ -1565,7 +1565,7 @@
     },
     {
       "areacode": 425,
-      "city_primary": "USSEA",
+      "primary_locode": "USSEA",
       "cities": [
         {
           "areacode": 425,
@@ -1580,7 +1580,7 @@
     },
     {
       "areacode": 430,
-      "city_primary": "USZLV",
+      "primary_locode": "USZLV",
       "cities": [
         {
           "areacode": 430,
@@ -1595,7 +1595,7 @@
     },
     {
       "areacode": 431,
-      "city_primary": "CAWNP",
+      "primary_locode": "CAWNP",
       "cities": [
         {
           "areacode": 431,
@@ -1610,7 +1610,7 @@
     },
     {
       "areacode": 432,
-      "city_primary": "USMAF",
+      "primary_locode": "USMAF",
       "cities": [
         {
           "areacode": 432,
@@ -1625,7 +1625,7 @@
     },
     {
       "areacode": 434,
-      "city_primary": "USLYH",
+      "primary_locode": "USLYH",
       "cities": [
         {
           "areacode": 434,
@@ -1640,7 +1640,7 @@
     },
     {
       "areacode": 435,
-      "city_primary": "USPAC",
+      "primary_locode": "USPAC",
       "cities": [
         {
           "areacode": 435,
@@ -1655,7 +1655,7 @@
     },
     {
       "areacode": 437,
-      "city_primary": "CATOR",
+      "primary_locode": "CATOR",
       "cities": [
         {
           "areacode": 437,
@@ -1670,7 +1670,7 @@
     },
     {
       "areacode": 438,
-      "city_primary": "CAMTR",
+      "primary_locode": "CAMTR",
       "cities": [
         {
           "areacode": 438,
@@ -1685,7 +1685,7 @@
     },
     {
       "areacode": 440,
-      "city_primary": "USCLE",
+      "primary_locode": "USCLE",
       "cities": [
         {
           "areacode": 440,
@@ -1700,7 +1700,7 @@
     },
     {
       "areacode": 442,
-      "city_primary": "USVCV",
+      "primary_locode": "USVCV",
       "cities": [
         {
           "areacode": 442,
@@ -1715,7 +1715,7 @@
     },
     {
       "areacode": 443,
-      "city_primary": "USBAL",
+      "primary_locode": "USBAL",
       "cities": [
         {
           "areacode": 443,
@@ -1730,7 +1730,7 @@
     },
     {
       "areacode": 450,
-      "city_primary": "CALAV",
+      "primary_locode": "CALAV",
       "cities": [
         {
           "areacode": 450,
@@ -1745,7 +1745,7 @@
     },
     {
       "areacode": 458,
-      "city_primary": "USEUG",
+      "primary_locode": "USEUG",
       "cities": [
         {
           "areacode": 458,
@@ -1760,7 +1760,7 @@
     },
     {
       "areacode": 469,
-      "city_primary": "USDAL",
+      "primary_locode": "USDAL",
       "cities": [
         {
           "areacode": 469,
@@ -1775,7 +1775,7 @@
     },
     {
       "areacode": 470,
-      "city_primary": "USATL",
+      "primary_locode": "USATL",
       "cities": [
         {
           "areacode": 470,
@@ -1790,7 +1790,7 @@
     },
     {
       "areacode": 475,
-      "city_primary": "USHVN",
+      "primary_locode": "USHVN",
       "cities": [
         {
           "areacode": 475,
@@ -1805,7 +1805,7 @@
     },
     {
       "areacode": 478,
-      "city_primary": "USMCN",
+      "primary_locode": "USMCN",
       "cities": [
         {
           "areacode": 478,
@@ -1820,7 +1820,7 @@
     },
     {
       "areacode": 479,
-      "city_primary": "USSPZ",
+      "primary_locode": "USSPZ",
       "cities": [
         {
           "areacode": 479,
@@ -1835,7 +1835,7 @@
     },
     {
       "areacode": 480,
-      "city_primary": "USPHX",
+      "primary_locode": "USPHX",
       "cities": [
         {
           "areacode": 480,
@@ -1850,7 +1850,7 @@
     },
     {
       "areacode": 484,
-      "city_primary": "USPHL",
+      "primary_locode": "USPHL",
       "cities": [
         {
           "areacode": 484,
@@ -1865,7 +1865,7 @@
     },
     {
       "areacode": 501,
-      "city_primary": "USLIT",
+      "primary_locode": "USLIT",
       "cities": [
         {
           "areacode": 501,
@@ -1880,7 +1880,7 @@
     },
     {
       "areacode": 502,
-      "city_primary": "USLUI",
+      "primary_locode": "USLUI",
       "cities": [
         {
           "areacode": 502,
@@ -1895,7 +1895,7 @@
     },
     {
       "areacode": 503,
-      "city_primary": "USPDX",
+      "primary_locode": "USPDX",
       "cities": [
         {
           "areacode": 503,
@@ -1910,7 +1910,7 @@
     },
     {
       "areacode": 504,
-      "city_primary": "USMSY",
+      "primary_locode": "USMSY",
       "cities": [
         {
           "areacode": 504,
@@ -1925,7 +1925,7 @@
     },
     {
       "areacode": 505,
-      "city_primary": "USABQ",
+      "primary_locode": "USABQ",
       "cities": [
         {
           "areacode": 505,
@@ -1940,7 +1940,7 @@
     },
     {
       "areacode": 506,
-      "city_primary": "CASJB",
+      "primary_locode": "CASJB",
       "cities": [
         {
           "areacode": 506,
@@ -1955,7 +1955,7 @@
     },
     {
       "areacode": 507,
-      "city_primary": "USRST",
+      "primary_locode": "USRST",
       "cities": [
         {
           "areacode": 507,
@@ -1970,7 +1970,7 @@
     },
     {
       "areacode": 508,
-      "city_primary": "USBOS",
+      "primary_locode": "USBOS",
       "cities": [
         {
           "areacode": 508,
@@ -1985,7 +1985,7 @@
     },
     {
       "areacode": 509,
-      "city_primary": "USGEG",
+      "primary_locode": "USGEG",
       "cities": [
         {
           "areacode": 509,
@@ -2000,7 +2000,7 @@
     },
     {
       "areacode": 510,
-      "city_primary": "USSJC",
+      "primary_locode": "USSJC",
       "cities": [
         {
           "areacode": 510,
@@ -2015,7 +2015,7 @@
     },
     {
       "areacode": 512,
-      "city_primary": "USAUS",
+      "primary_locode": "USAUS",
       "cities": [
         {
           "areacode": 512,
@@ -2030,7 +2030,7 @@
     },
     {
       "areacode": 513,
-      "city_primary": "USCVG",
+      "primary_locode": "USCVG",
       "cities": [
         {
           "areacode": 513,
@@ -2045,7 +2045,7 @@
     },
     {
       "areacode": 514,
-      "city_primary": "CAMTR",
+      "primary_locode": "CAMTR",
       "cities": [
         {
           "areacode": 514,
@@ -2060,7 +2060,7 @@
     },
     {
       "areacode": 515,
-      "city_primary": "USDSM",
+      "primary_locode": "USDSM",
       "cities": [
         {
           "areacode": 515,
@@ -2075,7 +2075,7 @@
     },
     {
       "areacode": 516,
-      "city_primary": "USSFG",
+      "primary_locode": "USSFG",
       "cities": [
         {
           "areacode": 516,
@@ -2090,7 +2090,7 @@
     },
     {
       "areacode": 517,
-      "city_primary": "USLAN",
+      "primary_locode": "USLAN",
       "cities": [
         {
           "areacode": 517,
@@ -2105,7 +2105,7 @@
     },
     {
       "areacode": 518,
-      "city_primary": "USSCH",
+      "primary_locode": "USSCH",
       "cities": [
         {
           "areacode": 518,
@@ -2120,7 +2120,7 @@
     },
     {
       "areacode": 519,
-      "city_primary": "CAZUR",
+      "primary_locode": "CAZUR",
       "cities": [
         {
           "areacode": 519,
@@ -2135,7 +2135,7 @@
     },
     {
       "areacode": 520,
-      "city_primary": "USPHX",
+      "primary_locode": "USPHX",
       "cities": [
         {
           "areacode": 520,
@@ -2150,7 +2150,7 @@
     },
     {
       "areacode": 530,
-      "city_primary": "USSAC",
+      "primary_locode": "USSAC",
       "cities": [
         {
           "areacode": 530,
@@ -2165,7 +2165,7 @@
     },
     {
       "areacode": 531,
-      "city_primary": "USLNK",
+      "primary_locode": "USLNK",
       "cities": [
         {
           "areacode": 531,
@@ -2180,7 +2180,7 @@
     },
     {
       "areacode": 534,
-      "city_primary": "USCPF",
+      "primary_locode": "USCPF",
       "cities": [
         {
           "areacode": 534,
@@ -2195,7 +2195,7 @@
     },
     {
       "areacode": 539,
-      "city_primary": "USTUL",
+      "primary_locode": "USTUL",
       "cities": [
         {
           "areacode": 539,
@@ -2210,7 +2210,7 @@
     },
     {
       "areacode": 540,
-      "city_primary": "USFDB",
+      "primary_locode": "USFDB",
       "cities": [
         {
           "areacode": 540,
@@ -2225,7 +2225,7 @@
     },
     {
       "areacode": 541,
-      "city_primary": "USEUG",
+      "primary_locode": "USEUG",
       "cities": [
         {
           "areacode": 541,
@@ -2240,7 +2240,7 @@
     },
     {
       "areacode": 551,
-      "city_primary": "USEWR",
+      "primary_locode": "USEWR",
       "cities": [
         {
           "areacode": 551,
@@ -2255,7 +2255,7 @@
     },
     {
       "areacode": 559,
-      "city_primary": "USFAT",
+      "primary_locode": "USFAT",
       "cities": [
         {
           "areacode": 559,
@@ -2270,7 +2270,7 @@
     },
     {
       "areacode": 561,
-      "city_primary": "USPBI",
+      "primary_locode": "USPBI",
       "cities": [
         {
           "areacode": 561,
@@ -2285,7 +2285,7 @@
     },
     {
       "areacode": 562,
-      "city_primary": "USLAX",
+      "primary_locode": "USLAX",
       "cities": [
         {
           "areacode": 562,
@@ -2300,7 +2300,7 @@
     },
     {
       "areacode": 563,
-      "city_primary": "USDVN",
+      "primary_locode": "USDVN",
       "cities": [
         {
           "areacode": 563,
@@ -2315,7 +2315,7 @@
     },
     {
       "areacode": 567,
-      "city_primary": "USTOL",
+      "primary_locode": "USTOL",
       "cities": [
         {
           "areacode": 567,
@@ -2330,7 +2330,7 @@
     },
     {
       "areacode": 570,
-      "city_primary": "USWKB",
+      "primary_locode": "USWKB",
       "cities": [
         {
           "areacode": 570,
@@ -2345,7 +2345,7 @@
     },
     {
       "areacode": 571,
-      "city_primary": "USAXR",
+      "primary_locode": "USAXR",
       "cities": [
         {
           "areacode": 571,
@@ -2360,7 +2360,7 @@
     },
     {
       "areacode": 573,
-      "city_primary": "USCOU",
+      "primary_locode": "USCOU",
       "cities": [
         {
           "areacode": 573,
@@ -2375,7 +2375,7 @@
     },
     {
       "areacode": 574,
-      "city_primary": "USSBN",
+      "primary_locode": "USSBN",
       "cities": [
         {
           "areacode": 574,
@@ -2390,7 +2390,7 @@
     },
     {
       "areacode": 575,
-      "city_primary": "USLRU",
+      "primary_locode": "USLRU",
       "cities": [
         {
           "areacode": 575,
@@ -2405,7 +2405,7 @@
     },
     {
       "areacode": 579,
-      "city_primary": "CAWAO",
+      "primary_locode": "CAWAO",
       "cities": [
         {
           "areacode": 579,
@@ -2420,7 +2420,7 @@
     },
     {
       "areacode": 580,
-      "city_primary": "USOKC",
+      "primary_locode": "USOKC",
       "cities": [
         {
           "areacode": 580,
@@ -2435,7 +2435,7 @@
     },
     {
       "areacode": 581,
-      "city_primary": "CAQUE",
+      "primary_locode": "CAQUE",
       "cities": [
         {
           "areacode": 581,
@@ -2450,7 +2450,7 @@
     },
     {
       "areacode": 585,
-      "city_primary": "USBUF",
+      "primary_locode": "USBUF",
       "cities": [
         {
           "areacode": 585,
@@ -2465,7 +2465,7 @@
     },
     {
       "areacode": 586,
-      "city_primary": "USDET",
+      "primary_locode": "USDET",
       "cities": [
         {
           "areacode": 586,
@@ -2480,7 +2480,7 @@
     },
     {
       "areacode": 587,
-      "city_primary": "CACAL",
+      "primary_locode": "CACAL",
       "cities": [
         {
           "areacode": 587,
@@ -2495,7 +2495,7 @@
     },
     {
       "areacode": 601,
-      "city_primary": "USJAN",
+      "primary_locode": "USJAN",
       "cities": [
         {
           "areacode": 601,
@@ -2510,7 +2510,7 @@
     },
     {
       "areacode": 602,
-      "city_primary": "USPHX",
+      "primary_locode": "USPHX",
       "cities": [
         {
           "areacode": 602,
@@ -2525,7 +2525,7 @@
     },
     {
       "areacode": 603,
-      "city_primary": "USMHT",
+      "primary_locode": "USMHT",
       "cities": [
         {
           "areacode": 603,
@@ -2540,7 +2540,7 @@
     },
     {
       "areacode": 604,
-      "city_primary": "CAVAN",
+      "primary_locode": "CAVAN",
       "cities": [
         {
           "areacode": 604,
@@ -2555,7 +2555,7 @@
     },
     {
       "areacode": 605,
-      "city_primary": "USFSD",
+      "primary_locode": "USFSD",
       "cities": [
         {
           "areacode": 605,
@@ -2570,7 +2570,7 @@
     },
     {
       "areacode": 606,
-      "city_primary": "USANL",
+      "primary_locode": "USANL",
       "cities": [
         {
           "areacode": 606,
@@ -2585,7 +2585,7 @@
     },
     {
       "areacode": 607,
-      "city_primary": "USBIO",
+      "primary_locode": "USBIO",
       "cities": [
         {
           "areacode": 607,
@@ -2600,7 +2600,7 @@
     },
     {
       "areacode": 608,
-      "city_primary": "USMSN",
+      "primary_locode": "USMSN",
       "cities": [
         {
           "areacode": 608,
@@ -2615,7 +2615,7 @@
     },
     {
       "areacode": 609,
-      "city_primary": "USCDE",
+      "primary_locode": "USCDE",
       "cities": [
         {
           "areacode": 609,
@@ -2630,7 +2630,7 @@
     },
     {
       "areacode": 610,
-      "city_primary": "USPHL",
+      "primary_locode": "USPHL",
       "cities": [
         {
           "areacode": 610,
@@ -2645,7 +2645,7 @@
     },
     {
       "areacode": 612,
-      "city_primary": "USMES",
+      "primary_locode": "USMES",
       "cities": [
         {
           "areacode": 612,
@@ -2660,7 +2660,7 @@
     },
     {
       "areacode": 613,
-      "city_primary": "CAOTT",
+      "primary_locode": "CAOTT",
       "cities": [
         {
           "areacode": 613,
@@ -2675,7 +2675,7 @@
     },
     {
       "areacode": 614,
-      "city_primary": "USCMH",
+      "primary_locode": "USCMH",
       "cities": [
         {
           "areacode": 614,
@@ -2690,7 +2690,7 @@
     },
     {
       "areacode": 615,
-      "city_primary": "USBNA",
+      "primary_locode": "USBNA",
       "cities": [
         {
           "areacode": 615,
@@ -2705,7 +2705,7 @@
     },
     {
       "areacode": 616,
-      "city_primary": "USGRR",
+      "primary_locode": "USGRR",
       "cities": [
         {
           "areacode": 616,
@@ -2720,7 +2720,7 @@
     },
     {
       "areacode": 617,
-      "city_primary": "USBOS",
+      "primary_locode": "USBOS",
       "cities": [
         {
           "areacode": 617,
@@ -2735,7 +2735,7 @@
     },
     {
       "areacode": 618,
-      "city_primary": "USBLV",
+      "primary_locode": "USBLV",
       "cities": [
         {
           "areacode": 618,
@@ -2750,7 +2750,7 @@
     },
     {
       "areacode": 619,
-      "city_primary": "USSAN",
+      "primary_locode": "USSAN",
       "cities": [
         {
           "areacode": 619,
@@ -2765,7 +2765,7 @@
     },
     {
       "areacode": 620,
-      "city_primary": "USHTK",
+      "primary_locode": "USHTK",
       "cities": [
         {
           "areacode": 620,
@@ -2780,7 +2780,7 @@
     },
     {
       "areacode": 623,
-      "city_primary": "USPHX",
+      "primary_locode": "USPHX",
       "cities": [
         {
           "areacode": 623,
@@ -2795,7 +2795,7 @@
     },
     {
       "areacode": 626,
-      "city_primary": "USLAX",
+      "primary_locode": "USLAX",
       "cities": [
         {
           "areacode": 626,
@@ -2810,7 +2810,7 @@
     },
     {
       "areacode": 630,
-      "city_primary": "USCHI",
+      "primary_locode": "USCHI",
       "cities": [
         {
           "areacode": 630,
@@ -2825,7 +2825,7 @@
     },
     {
       "areacode": 631,
-      "city_primary": "USDPK",
+      "primary_locode": "USDPK",
       "cities": [
         {
           "areacode": 631,
@@ -2840,7 +2840,7 @@
     },
     {
       "areacode": 636,
-      "city_primary": "USSTL",
+      "primary_locode": "USSTL",
       "cities": [
         {
           "areacode": 636,
@@ -2855,7 +2855,7 @@
     },
     {
       "areacode": 639,
-      "city_primary": "CAREG",
+      "primary_locode": "CAREG",
       "cities": [
         {
           "areacode": 639,
@@ -2870,7 +2870,7 @@
     },
     {
       "areacode": 641,
-      "city_primary": "USIAZ",
+      "primary_locode": "USIAZ",
       "cities": [
         {
           "areacode": 641,
@@ -2885,7 +2885,7 @@
     },
     {
       "areacode": 646,
-      "city_primary": "USBOY",
+      "primary_locode": "USBOY",
       "cities": [
         {
           "areacode": 646,
@@ -2900,7 +2900,7 @@
     },
     {
       "areacode": 647,
-      "city_primary": "CATOR",
+      "primary_locode": "CATOR",
       "cities": [
         {
           "areacode": 647,
@@ -2915,7 +2915,7 @@
     },
     {
       "areacode": 650,
-      "city_primary": "USSJC",
+      "primary_locode": "USSJC",
       "cities": [
         {
           "areacode": 650,
@@ -2930,7 +2930,7 @@
     },
     {
       "areacode": 651,
-      "city_primary": "USMES",
+      "primary_locode": "USMES",
       "cities": [
         {
           "areacode": 651,
@@ -2945,7 +2945,7 @@
     },
     {
       "areacode": 657,
-      "city_primary": "USLGB",
+      "primary_locode": "USLGB",
       "cities": [
         {
           "areacode": 657,
@@ -2960,7 +2960,7 @@
     },
     {
       "areacode": 660,
-      "city_primary": "USOIM",
+      "primary_locode": "USOIM",
       "cities": [
         {
           "areacode": 660,
@@ -2975,7 +2975,7 @@
     },
     {
       "areacode": 661,
-      "city_primary": "USBFL",
+      "primary_locode": "USBFL",
       "cities": [
         {
           "areacode": 661,
@@ -2990,7 +2990,7 @@
     },
     {
       "areacode": 662,
-      "city_primary": "USSVQ",
+      "primary_locode": "USSVQ",
       "cities": [
         {
           "areacode": 662,
@@ -3005,7 +3005,7 @@
     },
     {
       "areacode": 667,
-      "city_primary": "USBAL",
+      "primary_locode": "USBAL",
       "cities": [
         {
           "areacode": 667,
@@ -3020,7 +3020,7 @@
     },
     {
       "areacode": 669,
-      "city_primary": "USSJC",
+      "primary_locode": "USSJC",
       "cities": [
         {
           "areacode": 669,
@@ -3035,7 +3035,7 @@
     },
     {
       "areacode": 670,
-      "city_primary": "MPSPN",
+      "primary_locode": "MPSPN",
       "cities": [
         {
           "areacode": 670,
@@ -3050,7 +3050,7 @@
     },
     {
       "areacode": 671,
-      "city_primary": "GUDED",
+      "primary_locode": "GUDED",
       "cities": [
         {
           "areacode": 671,
@@ -3065,7 +3065,7 @@
     },
     {
       "areacode": 678,
-      "city_primary": "USATL",
+      "primary_locode": "USATL",
       "cities": [
         {
           "areacode": 678,
@@ -3080,7 +3080,7 @@
     },
     {
       "areacode": 681,
-      "city_primary": "USCRW",
+      "primary_locode": "USCRW",
       "cities": [
         {
           "areacode": 681,
@@ -3095,7 +3095,7 @@
     },
     {
       "areacode": 682,
-      "city_primary": "USDAL",
+      "primary_locode": "USDAL",
       "cities": [
         {
           "areacode": 682,
@@ -3110,7 +3110,7 @@
     },
     {
       "areacode": 684,
-      "city_primary": "ASPPG",
+      "primary_locode": "ASPPG",
       "cities": [
         {
           "areacode": 684,
@@ -3125,7 +3125,7 @@
     },
     {
       "areacode": 701,
-      "city_primary": "USFAR",
+      "primary_locode": "USFAR",
       "cities": [
         {
           "areacode": 701,
@@ -3140,7 +3140,7 @@
     },
     {
       "areacode": 702,
-      "city_primary": "USLAS",
+      "primary_locode": "USLAS",
       "cities": [
         {
           "areacode": 702,
@@ -3155,7 +3155,7 @@
     },
     {
       "areacode": 703,
-      "city_primary": "USAXR",
+      "primary_locode": "USAXR",
       "cities": [
         {
           "areacode": 703,
@@ -3170,7 +3170,7 @@
     },
     {
       "areacode": 704,
-      "city_primary": "USCLT",
+      "primary_locode": "USCLT",
       "cities": [
         {
           "areacode": 704,
@@ -3185,7 +3185,7 @@
     },
     {
       "areacode": 705,
-      "city_primary": "CAPBH",
+      "primary_locode": "CAPBH",
       "cities": [
         {
           "areacode": 705,
@@ -3200,7 +3200,7 @@
     },
     {
       "areacode": 706,
-      "city_primary": "USAGS",
+      "primary_locode": "USAGS",
       "cities": [
         {
           "areacode": 706,
@@ -3215,7 +3215,7 @@
     },
     {
       "areacode": 707,
-      "city_primary": "USSTS",
+      "primary_locode": "USSTS",
       "cities": [
         {
           "areacode": 707,
@@ -3230,7 +3230,7 @@
     },
     {
       "areacode": 708,
-      "city_primary": "USCHI",
+      "primary_locode": "USCHI",
       "cities": [
         {
           "areacode": 708,
@@ -3245,7 +3245,7 @@
     },
     {
       "areacode": 709,
-      "city_primary": "CASJF",
+      "primary_locode": "CASJF",
       "cities": [
         {
           "areacode": 709,
@@ -3260,7 +3260,7 @@
     },
     {
       "areacode": 712,
-      "city_primary": "USSUX",
+      "primary_locode": "USSUX",
       "cities": [
         {
           "areacode": 712,
@@ -3275,7 +3275,7 @@
     },
     {
       "areacode": 713,
-      "city_primary": "USHOU",
+      "primary_locode": "USHOU",
       "cities": [
         {
           "areacode": 713,
@@ -3290,7 +3290,7 @@
     },
     {
       "areacode": 714,
-      "city_primary": "USLGB",
+      "primary_locode": "USLGB",
       "cities": [
         {
           "areacode": 714,
@@ -3305,7 +3305,7 @@
     },
     {
       "areacode": 715,
-      "city_primary": "USGRB",
+      "primary_locode": "USGRB",
       "cities": [
         {
           "areacode": 715,
@@ -3320,7 +3320,7 @@
     },
     {
       "areacode": 716,
-      "city_primary": "USBUF",
+      "primary_locode": "USBUF",
       "cities": [
         {
           "areacode": 716,
@@ -3335,7 +3335,7 @@
     },
     {
       "areacode": 717,
-      "city_primary": "USLNS",
+      "primary_locode": "USLNS",
       "cities": [
         {
           "areacode": 717,
@@ -3350,7 +3350,7 @@
     },
     {
       "areacode": 718,
-      "city_primary": "USBOY",
+      "primary_locode": "USBOY",
       "cities": [
         {
           "areacode": 718,
@@ -3365,7 +3365,7 @@
     },
     {
       "areacode": 719,
-      "city_primary": "USCOS",
+      "primary_locode": "USCOS",
       "cities": [
         {
           "areacode": 719,
@@ -3380,7 +3380,7 @@
     },
     {
       "areacode": 720,
-      "city_primary": "USDEN",
+      "primary_locode": "USDEN",
       "cities": [
         {
           "areacode": 720,
@@ -3395,7 +3395,7 @@
     },
     {
       "areacode": 724,
-      "city_primary": "USPIT",
+      "primary_locode": "USPIT",
       "cities": [
         {
           "areacode": 724,
@@ -3410,7 +3410,7 @@
     },
     {
       "areacode": 725,
-      "city_primary": "USLAS",
+      "primary_locode": "USLAS",
       "cities": [
         {
           "areacode": 725,
@@ -3425,7 +3425,7 @@
     },
     {
       "areacode": 727,
-      "city_primary": "USTPA",
+      "primary_locode": "USTPA",
       "cities": [
         {
           "areacode": 727,
@@ -3440,7 +3440,7 @@
     },
     {
       "areacode": 731,
-      "city_primary": "USMKL",
+      "primary_locode": "USMKL",
       "cities": [
         {
           "areacode": 731,
@@ -3455,7 +3455,7 @@
     },
     {
       "areacode": 732,
-      "city_primary": "USEWR",
+      "primary_locode": "USEWR",
       "cities": [
         {
           "areacode": 732,
@@ -3470,7 +3470,7 @@
     },
     {
       "areacode": 734,
-      "city_primary": "USDET",
+      "primary_locode": "USDET",
       "cities": [
         {
           "areacode": 734,
@@ -3485,7 +3485,7 @@
     },
     {
       "areacode": 737,
-      "city_primary": "USAUS",
+      "primary_locode": "USAUS",
       "cities": [
         {
           "areacode": 737,
@@ -3500,7 +3500,7 @@
     },
     {
       "areacode": 740,
-      "city_primary": "USCMH",
+      "primary_locode": "USCMH",
       "cities": [
         {
           "areacode": 740,
@@ -3515,7 +3515,7 @@
     },
     {
       "areacode": 747,
-      "city_primary": "USLAX",
+      "primary_locode": "USLAX",
       "cities": [
         {
           "areacode": 747,
@@ -3530,7 +3530,7 @@
     },
     {
       "areacode": 754,
-      "city_primary": "USFLL",
+      "primary_locode": "USFLL",
       "cities": [
         {
           "areacode": 754,
@@ -3545,7 +3545,7 @@
     },
     {
       "areacode": 757,
-      "city_primary": "USVAB",
+      "primary_locode": "USVAB",
       "cities": [
         {
           "areacode": 757,
@@ -3560,7 +3560,7 @@
     },
     {
       "areacode": 760,
-      "city_primary": "USSAN",
+      "primary_locode": "USSAN",
       "cities": [
         {
           "areacode": 760,
@@ -3575,7 +3575,7 @@
     },
     {
       "areacode": 762,
-      "city_primary": "USAGS",
+      "primary_locode": "USAGS",
       "cities": [
         {
           "areacode": 762,
@@ -3590,7 +3590,7 @@
     },
     {
       "areacode": 763,
-      "city_primary": "USMES",
+      "primary_locode": "USMES",
       "cities": [
         {
           "areacode": 763,
@@ -3605,7 +3605,7 @@
     },
     {
       "areacode": 765,
-      "city_primary": "USIND",
+      "primary_locode": "USIND",
       "cities": [
         {
           "areacode": 765,
@@ -3620,7 +3620,7 @@
     },
     {
       "areacode": 769,
-      "city_primary": "USJAN",
+      "primary_locode": "USJAN",
       "cities": [
         {
           "areacode": 769,
@@ -3635,7 +3635,7 @@
     },
     {
       "areacode": 770,
-      "city_primary": "USATL",
+      "primary_locode": "USATL",
       "cities": [
         {
           "areacode": 770,
@@ -3650,7 +3650,7 @@
     },
     {
       "areacode": 772,
-      "city_primary": "USPZL",
+      "primary_locode": "USPZL",
       "cities": [
         {
           "areacode": 772,
@@ -3665,7 +3665,7 @@
     },
     {
       "areacode": 773,
-      "city_primary": "USCHI",
+      "primary_locode": "USCHI",
       "cities": [
         {
           "areacode": 773,
@@ -3680,7 +3680,7 @@
     },
     {
       "areacode": 774,
-      "city_primary": "USBOS",
+      "primary_locode": "USBOS",
       "cities": [
         {
           "areacode": 774,
@@ -3695,7 +3695,7 @@
     },
     {
       "areacode": 775,
-      "city_primary": "USRNO",
+      "primary_locode": "USRNO",
       "cities": [
         {
           "areacode": 775,
@@ -3710,7 +3710,7 @@
     },
     {
       "areacode": 778,
-      "city_primary": "CAVAN",
+      "primary_locode": "CAVAN",
       "cities": [
         {
           "areacode": 778,
@@ -3725,7 +3725,7 @@
     },
     {
       "areacode": 779,
-      "city_primary": "USRFD",
+      "primary_locode": "USRFD",
       "cities": [
         {
           "areacode": 779,
@@ -3740,7 +3740,7 @@
     },
     {
       "areacode": 780,
-      "city_primary": "CAEDM",
+      "primary_locode": "CAEDM",
       "cities": [
         {
           "areacode": 780,
@@ -3755,7 +3755,7 @@
     },
     {
       "areacode": 781,
-      "city_primary": "USBOS",
+      "primary_locode": "USBOS",
       "cities": [
         {
           "areacode": 781,
@@ -3770,7 +3770,7 @@
     },
     {
       "areacode": 785,
-      "city_primary": "USTOP",
+      "primary_locode": "USTOP",
       "cities": [
         {
           "areacode": 785,
@@ -3785,7 +3785,7 @@
     },
     {
       "areacode": 786,
-      "city_primary": "USMIA",
+      "primary_locode": "USMIA",
       "cities": [
         {
           "areacode": 786,
@@ -3800,7 +3800,7 @@
     },
     {
       "areacode": 787,
-      "city_primary": "PRSJU",
+      "primary_locode": "PRSJU",
       "cities": [
         {
           "areacode": 787,
@@ -3815,7 +3815,7 @@
     },
     {
       "areacode": 801,
-      "city_primary": "USSLC",
+      "primary_locode": "USSLC",
       "cities": [
         {
           "areacode": 801,
@@ -3830,7 +3830,7 @@
     },
     {
       "areacode": 802,
-      "city_primary": "USSB8",
+      "primary_locode": "USSB8",
       "cities": [
         {
           "areacode": 802,
@@ -3845,7 +3845,7 @@
     },
     {
       "areacode": 803,
-      "city_primary": "USCAE",
+      "primary_locode": "USCAE",
       "cities": [
         {
           "areacode": 803,
@@ -3860,7 +3860,7 @@
     },
     {
       "areacode": 804,
-      "city_primary": "USRIC",
+      "primary_locode": "USRIC",
       "cities": [
         {
           "areacode": 804,
@@ -3875,7 +3875,7 @@
     },
     {
       "areacode": 805,
-      "city_primary": "USBFL",
+      "primary_locode": "USBFL",
       "cities": [
         {
           "areacode": 805,
@@ -3890,7 +3890,7 @@
     },
     {
       "areacode": 806,
-      "city_primary": "USLBB",
+      "primary_locode": "USLBB",
       "cities": [
         {
           "areacode": 806,
@@ -3905,7 +3905,7 @@
     },
     {
       "areacode": 807,
-      "city_primary": "CATHU",
+      "primary_locode": "CATHU",
       "cities": [
         {
           "areacode": 807,
@@ -3920,7 +3920,7 @@
     },
     {
       "areacode": 808,
-      "city_primary": "USHNL",
+      "primary_locode": "USHNL",
       "cities": [
         {
           "areacode": 808,
@@ -3935,7 +3935,7 @@
     },
     {
       "areacode": 810,
-      "city_primary": "USFNT",
+      "primary_locode": "USFNT",
       "cities": [
         {
           "areacode": 810,
@@ -3950,7 +3950,7 @@
     },
     {
       "areacode": 812,
-      "city_primary": "USEVV",
+      "primary_locode": "USEVV",
       "cities": [
         {
           "areacode": 812,
@@ -3965,7 +3965,7 @@
     },
     {
       "areacode": 813,
-      "city_primary": "USTPA",
+      "primary_locode": "USTPA",
       "cities": [
         {
           "areacode": 813,
@@ -3980,7 +3980,7 @@
     },
     {
       "areacode": 814,
-      "city_primary": "USERI",
+      "primary_locode": "USERI",
       "cities": [
         {
           "areacode": 814,
@@ -3995,7 +3995,7 @@
     },
     {
       "areacode": 815,
-      "city_primary": "USCHI",
+      "primary_locode": "USCHI",
       "cities": [
         {
           "areacode": 815,
@@ -4010,7 +4010,7 @@
     },
     {
       "areacode": 816,
-      "city_primary": "USMKC",
+      "primary_locode": "USMKC",
       "cities": [
         {
           "areacode": 816,
@@ -4025,7 +4025,7 @@
     },
     {
       "areacode": 817,
-      "city_primary": "USDAL",
+      "primary_locode": "USDAL",
       "cities": [
         {
           "areacode": 817,
@@ -4040,7 +4040,7 @@
     },
     {
       "areacode": 818,
-      "city_primary": "USLAX",
+      "primary_locode": "USLAX",
       "cities": [
         {
           "areacode": 818,
@@ -4055,7 +4055,7 @@
     },
     {
       "areacode": 819,
-      "city_primary": "CAZYE",
+      "primary_locode": "CAZYE",
       "cities": [
         {
           "areacode": 819,
@@ -4070,7 +4070,7 @@
     },
     {
       "areacode": 828,
-      "city_primary": "USAEV",
+      "primary_locode": "USAEV",
       "cities": [
         {
           "areacode": 828,
@@ -4085,7 +4085,7 @@
     },
     {
       "areacode": 830,
-      "city_primary": "USNHB",
+      "primary_locode": "USNHB",
       "cities": [
         {
           "areacode": 830,
@@ -4100,7 +4100,7 @@
     },
     {
       "areacode": 831,
-      "city_primary": "USSNS",
+      "primary_locode": "USSNS",
       "cities": [
         {
           "areacode": 831,
@@ -4115,7 +4115,7 @@
     },
     {
       "areacode": 832,
-      "city_primary": "USHOU",
+      "primary_locode": "USHOU",
       "cities": [
         {
           "areacode": 832,
@@ -4130,7 +4130,7 @@
     },
     {
       "areacode": 843,
-      "city_primary": "USCHS",
+      "primary_locode": "USCHS",
       "cities": [
         {
           "areacode": 843,
@@ -4145,7 +4145,7 @@
     },
     {
       "areacode": 845,
-      "city_primary": "USPOU",
+      "primary_locode": "USPOU",
       "cities": [
         {
           "areacode": 845,
@@ -4160,7 +4160,7 @@
     },
     {
       "areacode": 847,
-      "city_primary": "USCHI",
+      "primary_locode": "USCHI",
       "cities": [
         {
           "areacode": 847,
@@ -4175,7 +4175,7 @@
     },
     {
       "areacode": 848,
-      "city_primary": "USEWR",
+      "primary_locode": "USEWR",
       "cities": [
         {
           "areacode": 848,
@@ -4190,7 +4190,7 @@
     },
     {
       "areacode": 850,
-      "city_primary": "USPNS",
+      "primary_locode": "USPNS",
       "cities": [
         {
           "areacode": 850,
@@ -4205,7 +4205,7 @@
     },
     {
       "areacode": 856,
-      "city_primary": "USCDE",
+      "primary_locode": "USCDE",
       "cities": [
         {
           "areacode": 856,
@@ -4220,7 +4220,7 @@
     },
     {
       "areacode": 857,
-      "city_primary": "USBOS",
+      "primary_locode": "USBOS",
       "cities": [
         {
           "areacode": 857,
@@ -4235,7 +4235,7 @@
     },
     {
       "areacode": 858,
-      "city_primary": "USSAN",
+      "primary_locode": "USSAN",
       "cities": [
         {
           "areacode": 858,
@@ -4250,7 +4250,7 @@
     },
     {
       "areacode": 859,
-      "city_primary": "USLEX",
+      "primary_locode": "USLEX",
       "cities": [
         {
           "areacode": 859,
@@ -4265,7 +4265,7 @@
     },
     {
       "areacode": 860,
-      "city_primary": "USHFD",
+      "primary_locode": "USHFD",
       "cities": [
         {
           "areacode": 860,
@@ -4280,7 +4280,7 @@
     },
     {
       "areacode": 862,
-      "city_primary": "USEWR",
+      "primary_locode": "USEWR",
       "cities": [
         {
           "areacode": 862,
@@ -4295,7 +4295,7 @@
     },
     {
       "areacode": 863,
-      "city_primary": "USISM",
+      "primary_locode": "USISM",
       "cities": [
         {
           "areacode": 863,
@@ -4310,7 +4310,7 @@
     },
     {
       "areacode": 864,
-      "city_primary": "USGV9",
+      "primary_locode": "USGV9",
       "cities": [
         {
           "areacode": 864,
@@ -4325,7 +4325,7 @@
     },
     {
       "areacode": 865,
-      "city_primary": "USTYS",
+      "primary_locode": "USTYS",
       "cities": [
         {
           "areacode": 865,
@@ -4340,7 +4340,7 @@
     },
     {
       "areacode": 867,
-      "city_primary": "CAYZF",
+      "primary_locode": "CAYZF",
       "cities": [
         {
           "areacode": 867,
@@ -4355,7 +4355,7 @@
     },
     {
       "areacode": 870,
-      "city_primary": "USJBR",
+      "primary_locode": "USJBR",
       "cities": [
         {
           "areacode": 870,
@@ -4370,7 +4370,7 @@
     },
     {
       "areacode": 872,
-      "city_primary": "USCHI",
+      "primary_locode": "USCHI",
       "cities": [
         {
           "areacode": 872,
@@ -4385,7 +4385,7 @@
     },
     {
       "areacode": 873,
-      "city_primary": "CASBR",
+      "primary_locode": "CASBR",
       "cities": [
         {
           "areacode": 873,
@@ -4400,7 +4400,7 @@
     },
     {
       "areacode": 878,
-      "city_primary": "USPIT",
+      "primary_locode": "USPIT",
       "cities": [
         {
           "areacode": 878,
@@ -4415,7 +4415,7 @@
     },
     {
       "areacode": 901,
-      "city_primary": "USMEM",
+      "primary_locode": "USMEM",
       "cities": [
         {
           "areacode": 901,
@@ -4430,7 +4430,7 @@
     },
     {
       "areacode": 902,
-      "city_primary": "CAYRH",
+      "primary_locode": "CAYRH",
       "cities": [
         {
           "areacode": 902,
@@ -4445,7 +4445,7 @@
     },
     {
       "areacode": 903,
-      "city_primary": "USTYR",
+      "primary_locode": "USTYR",
       "cities": [
         {
           "areacode": 903,
@@ -4460,7 +4460,7 @@
     },
     {
       "areacode": 904,
-      "city_primary": "USJAX",
+      "primary_locode": "USJAX",
       "cities": [
         {
           "areacode": 904,
@@ -4475,7 +4475,7 @@
     },
     {
       "areacode": 905,
-      "city_primary": "CAWDB",
+      "primary_locode": "CAWDB",
       "cities": [
         {
           "areacode": 905,
@@ -4490,7 +4490,7 @@
     },
     {
       "areacode": 906,
-      "city_primary": "USMQT",
+      "primary_locode": "USMQT",
       "cities": [
         {
           "areacode": 906,
@@ -4505,7 +4505,7 @@
     },
     {
       "areacode": 907,
-      "city_primary": "USANC",
+      "primary_locode": "USANC",
       "cities": [
         {
           "areacode": 907,
@@ -4520,7 +4520,7 @@
     },
     {
       "areacode": 908,
-      "city_primary": "USEWR",
+      "primary_locode": "USEWR",
       "cities": [
         {
           "areacode": 908,
@@ -4535,7 +4535,7 @@
     },
     {
       "areacode": 909,
-      "city_primary": "USRAL",
+      "primary_locode": "USRAL",
       "cities": [
         {
           "areacode": 909,
@@ -4550,7 +4550,7 @@
     },
     {
       "areacode": 910,
-      "city_primary": "USFAY",
+      "primary_locode": "USFAY",
       "cities": [
         {
           "areacode": 910,
@@ -4565,7 +4565,7 @@
     },
     {
       "areacode": 912,
-      "city_primary": "USSAV",
+      "primary_locode": "USSAV",
       "cities": [
         {
           "areacode": 912,
@@ -4580,7 +4580,7 @@
     },
     {
       "areacode": 913,
-      "city_primary": "USKCK",
+      "primary_locode": "USKCK",
       "cities": [
         {
           "areacode": 913,
@@ -4595,7 +4595,7 @@
     },
     {
       "areacode": 914,
-      "city_primary": "USWTS",
+      "primary_locode": "USWTS",
       "cities": [
         {
           "areacode": 914,
@@ -4610,7 +4610,7 @@
     },
     {
       "areacode": 915,
-      "city_primary": "USELP",
+      "primary_locode": "USELP",
       "cities": [
         {
           "areacode": 915,
@@ -4625,7 +4625,7 @@
     },
     {
       "areacode": 916,
-      "city_primary": "USSAC",
+      "primary_locode": "USSAC",
       "cities": [
         {
           "areacode": 916,
@@ -4640,7 +4640,7 @@
     },
     {
       "areacode": 917,
-      "city_primary": "USBOY",
+      "primary_locode": "USBOY",
       "cities": [
         {
           "areacode": 917,
@@ -4655,7 +4655,7 @@
     },
     {
       "areacode": 918,
-      "city_primary": "USTUL",
+      "primary_locode": "USTUL",
       "cities": [
         {
           "areacode": 918,
@@ -4670,7 +4670,7 @@
     },
     {
       "areacode": 919,
-      "city_primary": "USRAG",
+      "primary_locode": "USRAG",
       "cities": [
         {
           "areacode": 919,
@@ -4685,7 +4685,7 @@
     },
     {
       "areacode": 920,
-      "city_primary": "USMKE",
+      "primary_locode": "USMKE",
       "cities": [
         {
           "areacode": 920,
@@ -4700,7 +4700,7 @@
     },
     {
       "areacode": 925,
-      "city_primary": "USOAK",
+      "primary_locode": "USOAK",
       "cities": [
         {
           "areacode": 925,
@@ -4715,7 +4715,7 @@
     },
     {
       "areacode": 928,
-      "city_primary": "USPHX",
+      "primary_locode": "USPHX",
       "cities": [
         {
           "areacode": 928,
@@ -4730,7 +4730,7 @@
     },
     {
       "areacode": 929,
-      "city_primary": "USBOY",
+      "primary_locode": "USBOY",
       "cities": [
         {
           "areacode": 929,
@@ -4745,7 +4745,7 @@
     },
     {
       "areacode": 931,
-      "city_primary": "USCKV",
+      "primary_locode": "USCKV",
       "cities": [
         {
           "areacode": 931,
@@ -4760,7 +4760,7 @@
     },
     {
       "areacode": 936,
-      "city_primary": "USCXO",
+      "primary_locode": "USCXO",
       "cities": [
         {
           "areacode": 936,
@@ -4775,7 +4775,7 @@
     },
     {
       "areacode": 937,
-      "city_primary": "USDAY",
+      "primary_locode": "USDAY",
       "cities": [
         {
           "areacode": 937,
@@ -4790,7 +4790,7 @@
     },
     {
       "areacode": 938,
-      "city_primary": "USGWT",
+      "primary_locode": "USGWT",
       "cities": [
         {
           "areacode": 938,
@@ -4805,7 +4805,7 @@
     },
     {
       "areacode": 939,
-      "city_primary": "PRBAY",
+      "primary_locode": "PRBAY",
       "cities": [
         {
           "areacode": 939,
@@ -4820,7 +4820,7 @@
     },
     {
       "areacode": 940,
-      "city_primary": "USDTN",
+      "primary_locode": "USDTN",
       "cities": [
         {
           "areacode": 940,
@@ -4835,7 +4835,7 @@
     },
     {
       "areacode": 941,
-      "city_primary": "USZOR",
+      "primary_locode": "USZOR",
       "cities": [
         {
           "areacode": 941,
@@ -4850,7 +4850,7 @@
     },
     {
       "areacode": 947,
-      "city_primary": "USSFJ",
+      "primary_locode": "USSFJ",
       "cities": [
         {
           "areacode": 947,
@@ -4865,7 +4865,7 @@
     },
     {
       "areacode": 949,
-      "city_primary": "USSNA",
+      "primary_locode": "USSNA",
       "cities": [
         {
           "areacode": 949,
@@ -4880,7 +4880,7 @@
     },
     {
       "areacode": 951,
-      "city_primary": "USRAL",
+      "primary_locode": "USRAL",
       "cities": [
         {
           "areacode": 951,
@@ -4895,7 +4895,7 @@
     },
     {
       "areacode": 952,
-      "city_primary": "USMES",
+      "primary_locode": "USMES",
       "cities": [
         {
           "areacode": 952,
@@ -4910,7 +4910,7 @@
     },
     {
       "areacode": 954,
-      "city_primary": "USFLL",
+      "primary_locode": "USFLL",
       "cities": [
         {
           "areacode": 954,
@@ -4925,7 +4925,7 @@
     },
     {
       "areacode": 956,
-      "city_primary": "USLRD",
+      "primary_locode": "USLRD",
       "cities": [
         {
           "areacode": 956,
@@ -4940,7 +4940,7 @@
     },
     {
       "areacode": 970,
-      "city_primary": "USFNL",
+      "primary_locode": "USFNL",
       "cities": [
         {
           "areacode": 970,
@@ -4955,7 +4955,7 @@
     },
     {
       "areacode": 971,
-      "city_primary": "USPDX",
+      "primary_locode": "USPDX",
       "cities": [
         {
           "areacode": 971,
@@ -4970,7 +4970,7 @@
     },
     {
       "areacode": 972,
-      "city_primary": "USDAL",
+      "primary_locode": "USDAL",
       "cities": [
         {
           "areacode": 972,
@@ -4985,7 +4985,7 @@
     },
     {
       "areacode": 973,
-      "city_primary": "USEWR",
+      "primary_locode": "USEWR",
       "cities": [
         {
           "areacode": 973,
@@ -5000,7 +5000,7 @@
     },
     {
       "areacode": 978,
-      "city_primary": "USBOS",
+      "primary_locode": "USBOS",
       "cities": [
         {
           "areacode": 978,
@@ -5015,7 +5015,7 @@
     },
     {
       "areacode": 979,
-      "city_primary": "USCLL",
+      "primary_locode": "USCLL",
       "cities": [
         {
           "areacode": 979,
@@ -5030,7 +5030,7 @@
     },
     {
       "areacode": 980,
-      "city_primary": "USCLT",
+      "primary_locode": "USCLT",
       "cities": [
         {
           "areacode": 980,
@@ -5045,7 +5045,7 @@
     },
     {
       "areacode": 984,
-      "city_primary": "USRAG",
+      "primary_locode": "USRAG",
       "cities": [
         {
           "areacode": 984,
@@ -5060,7 +5060,7 @@
     },
     {
       "areacode": 985,
-      "city_primary": "USMSY",
+      "primary_locode": "USMSY",
       "cities": [
         {
           "areacode": 985,
@@ -5075,7 +5075,7 @@
     },
     {
       "areacode": 989,
-      "city_primary": "USSGM",
+      "primary_locode": "USSGM",
       "cities": [
         {
           "areacode": 989,
