@@ -88,7 +88,7 @@ areacode	state name	state	country	parent areacode	introduced	overlay
 361	Texas	TX	US	512	1999-02-13	No
 364	Kentucky	KY	US			
 365	Ontario	ON	CA			
-385	Utah	UT	US		(UNK)	
+385	Utah	UT	US			
 386	Florida	FL	US			
 401	Rhode Island	RI	US		1952	No
 402	Nebraska	NE	US		1952	No
@@ -123,7 +123,7 @@ areacode	state name	state	country	parent areacode	introduced	overlay
 442	California	CA	US			
 443	Maryland	MD	US	410	1997-06-01	Yes
 450	Quebec	QC	CA	514	1998-06-13	No
-456	Not Applicable	NA	NA		(UNK)	
+456	Not Applicable	NA	NA			
 458	Oregon	OR	US			
 469	Texas	TX	US	214	1999-07-01	Yes
 470	Georgia	GA	US			
@@ -133,7 +133,7 @@ areacode	state name	state	country	parent areacode	introduced	overlay
 479	Arkansas	AR	US			
 480	Arizona	AZ	US	602	1999-03-01	No
 484	Pennsylvania	PA	US	610	1999-06-05	Yes
-500	Not Applicable	NA	NA		(UNK)	
+500	Not Applicable	NA	NA			
 501	Arkansas	AR	US		1952	No
 502	Kentucky	KY	US		1952	No
 503	Oregon	OR	US		1952	No
@@ -180,7 +180,7 @@ areacode	state name	state	country	parent areacode	introduced	overlay
 585	New York	NY	US			
 586	Michigan	MI	US			
 587	Alberta	AB	CA			
-600	Not Applicable	NA	NA		(UNK)	
+600	Not Applicable	NA	NA			
 601	Mississippi	MS	US		1952	No
 602	Arizona	AZ	US		1952	No
 603	New Hampshire	NH	US		1952	No
@@ -211,7 +211,7 @@ areacode	state name	state	country	parent areacode	introduced	overlay
 639	Saskatchewan	SK	CA			
 641	Iowa	IA	US	515	2000-07-09	No
 646	New York	NY	US	212	1999-07-01	Yes
-647	Ontario	ON	CA		(UNK)	
+647	Ontario	ON	CA			
 649	Turks and Caicos Islands	TC	TC	809	1997-06-01	No
 650	California	CA	US	415	1997-08-02	No
 651	Minnesota	MN	US	612	1998-07-12	No
@@ -228,7 +228,7 @@ areacode	state name	state	country	parent areacode	introduced	overlay
 681	West Virginia	WV	US			
 682	Texas	TX	US	817	2000-10-07	Yes
 684	American Samoa	AS	US			
-700	Not Applicable	NA	NA		(UNK)	
+700	Not Applicable	NA	NA			
 701	North Dakota	ND	US		1952	No
 702	Nevada	NV	US		1952	No
 703	Virginia	VA	US		1952	No
@@ -238,7 +238,7 @@ areacode	state name	state	country	parent areacode	introduced	overlay
 707	California	CA	US	415	1959	
 708	Illinois	IL	US	312	1989/11	
 709	Newfoundland and Labrador	NL	CA	506	1962	
-710	Not Applicable	NA	NA		(UNK)	
+710	Not Applicable	NA	NA			
 712	Iowa	IA	US		1952	No
 713	Texas	TX	US		1952	No
 714	California	CA	US		1952	No
@@ -281,7 +281,7 @@ areacode	state name	state	country	parent areacode	introduced	overlay
 785	Kansas	KS	US	913	1997-07-20	No
 786	Florida	FL	US	305	1998-03-01	Yes
 787	Puerto Rico	PR	US	809	1996-03-01	No
-800	Not Applicable	NA	NA		(UNK)	
+800	Not Applicable	NA	NA			
 801	Utah	UT	US		1952	No
 802	Vermont	VT	US		1952	No
 803	South Carolina	SC	US		1952	No
@@ -333,7 +333,7 @@ areacode	state name	state	country	parent areacode	introduced	overlay
 877	Not Applicable	NA	NA		1998-04-08	
 878	Pennsylvania	PA	US			
 888	Not Applicable	NA	NA		1996-03-01	
-900	Not Applicable	NA	NA		(UNK)	
+900	Not Applicable	NA	NA			
 901	Tennessee	TN	US		1952	No
 902	Nova Scotia	NS	CA		1952	No
 903	Texas	TX	US	214	1990-11-04	
