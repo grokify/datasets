@@ -1,383 +1,383 @@
-areacode	state name	state	country	parent areacode	introduced	overlay
-201	New Jersey	NJ	US		1952	No
-202	Washington, DC	DC	US		1952	No
-203	Connecticut	CT	US		1952	No
-204	Manitoba	MB	CA		1952	No
-205	Alabama	AL	US		1952	No
-206	Washington	WA	US		1952	No
-207	Maine	ME	US		1952	No
-208	Idaho	ID	US		1952	No
-209	California	CA	US	916	1958	
-210	Texas	TX	US	512	1992-11-01	
-212	New York	NY	US		1952	No
-213	California	CA	US		1952	No
-214	Texas	TX	US		1952	No
-215	Pennsylvania	PA	US		1952	No
-216	Ohio	OH	US		1952	No
-217	Illinois	IL	US		1952	No
-218	Minnesota	MN	US		1952	No
-219	Indiana	IN	US		1952	No
-224	Illinois	IL	US			
-225	Louisiana	LA	US	504	1998-08-17	No
-226	Ontario	ON	CA			
-228	Mississippi	MS	US	601	1997-09-15	No
-229	Georgia	GA	US	912	2000-08-01	No
-231	Michigan	MI	US	616	1999-06-05	No
-234	Ohio	OH	US	330	2000-10-30	Yes
-236	British Columbia	BC	CA			
-239	Florida	FL	US			
-240	Maryland	MD	US	301	1997-06-01	Yes
-242	British Columbia	BC	CA	809	1996-10-01	No
-246	Barbados	BB	BB	809	1996-07-01	No
-248	Michigan	MI	US	810	1997-05-10	No
-249	Ontario	ON	CA			
-250	British Columbia	BC	CA	604	1996-10-19	No
-251	Alabama	AL	US			
-252	North Carolina	NC	US	919	1998-03-22	No
-253	Washington	WA	US	206	1997-04-27	No
-254	Texas	TX	US	817	1997-05-25	No
-256	Alabama	AL	US	205	1998-03-23	No
-260	Indiana	IN	US			
-262	Wisconsin	WI	US	414	1999-09-25	No
-264	Anguilla	AI	AI	809	1997-03-31	No
-267	Pennsylvania	PA	US	215	1999-06-05	Yes
-268	Antigua and Barbuda	AG	AG	809	1996-04-01	No
-269	Michigan	MI	US			
-270	Kentucky	KY	US	502	1999-04-19	No
-272	Pennsylvania	PA	US			
-276	Virginia	VA	US			
-281	Texas	TX	US	713	1996-11-02	No
-284	British Virgin Islands	VG	VG	809	1997-10-01	No
-289	Ontario	ON	CA			
-301	Maryland	MD	US		1952	No
-302	Delaware	DE	US		1952	No
-303	Colorado	CO	US		1952	No
-304	West Virginia	WV	US		1952	No
-305	Florida	FL	US		1952	No
-306	Saskatchewan	SK	CA		1952	No
-307	Wyoming	WY	US		1952	No
-308	Nebraska	NE	US	402	1954	
-309	Illinois	IL	US	217/815	1957	
-310	California	CA	US	213	1991-11-02	
-312	Illinois	IL	US		1952	No
-313	Michigan	MI	US		1952	No
-314	Missouri	MO	US		1952	No
-315	New York	NY	US		1952	No
-316	Kansas	KS	US		1952	No
-317	Indiana	IN	US		1952	No
-318	Louisiana	LA	US	504	1957	
-319	Iowa	IA	US		1952	No
-320	Minnesota	MN	US	612	1996-03-17	No
-321	Florida	FL	US	407	1999-11-01	Yes
-323	California	CA	US	213	1998-06-13	No
-325	Texas	TX	US			
-330	Ohio	OH	US	216	1996-03-09	No
-331	Illinois	IL	US			
-334	Alabama	AL	US	205	1995-01-15	No
-336	North Carolina	NC	US	910	1997-12-15	No
-337	Louisiana	LA	US	318	1999-10-11	No
-339	Massachusetts	MA	US			
-340	Virgin Islands	VI	US	809	1997-06-01	No
-343	Ontario	ON	CA			
-345	Cayman Islands	CI	KY	809	1996-09-01	No
-346	Texas	TX	US			
-347	New York	NY	US	718	1999-10-01	Yes
-351	Massachusetts	MA	US			
-352	Florida	FL	US	904	1995-12-03	No
-360	Washington	WA	US	206	1995-01-15	No
-361	Texas	TX	US	512	1999-02-13	No
-364	Kentucky	KY	US			
-365	Ontario	ON	CA			
-385	Utah	UT	US			
-386	Florida	FL	US			
-401	Rhode Island	RI	US		1952	No
-402	Nebraska	NE	US		1952	No
-403	Alberta	AB	CA		1952	No
-404	Georgia	GA	US		1952	No
-405	Oklahoma	OK	US		1952	No
-406	Montana	MT	US		1952	No
-407	Florida	FL	US	305	1988-04-16	
-408	California	CA	US	415	1959	
-409	Texas	TX	US	713	1983/03	
-410	Maryland	MD	US	301	1991-11-01	
-412	Pennsylvania	PA	US		1952	No
-413	Massachusetts	MA	US		1952	No
-414	Wisconsin	WI	US		1952	No
-415	California	CA	US		1952	No
-416	Ontario	ON	CA		1952	No
-417	Missouri	MO	US		1952	No
-418	Quebec	QC	CA		1952	No
-419	Ohio	OH	US		1952	No
-423	Tennessee	TN	US	615	1995-09-11	No
-424	California	CA	US			
-425	Washington	WA	US	206	1997-04-27	No
-430	Texas	TX	US			
-431	Manitoba	MB	CA			
-432	Texas	TX	US			
-434	Virginia	VA	US			
-435	Utah	UT	US	801	1997-09-21	No
-437	Ontario	ON	CA			
-438	Quebec	QC	CA			
-440	Ohio	OH	US	216	1997-08-16	No
-441	Bermuda	BM	BM	809	1995-10-01	No
-442	California	CA	US			
-443	Maryland	MD	US	410	1997-06-01	Yes
-450	Quebec	QC	CA	514	1998-06-13	No
-456	Not Applicable	NA	NA			
-458	Oregon	OR	US			
-469	Texas	TX	US	214	1999-07-01	Yes
-470	Georgia	GA	US			
-473	Grenada	GD	GD	809	1997-10-31	No
-475	Connecticut	CT	US			
-478	Georgia	GA	US	912	2000-08-01	No
-479	Arkansas	AR	US			
-480	Arizona	AZ	US	602	1999-03-01	No
-484	Pennsylvania	PA	US	610	1999-06-05	Yes
-500	Not Applicable	NA	NA			
-501	Arkansas	AR	US		1952	No
-502	Kentucky	KY	US		1952	No
-503	Oregon	OR	US		1952	No
-504	Louisiana	LA	US		1952	No
-505	New Mexico	NM	US		1952	No
-506	New Brunswick	NB	CA	902	1955	
-507	Minnesota	MN	US	218/612	1954	
-508	Massachusetts	MA	US	617	1988-07-16	
-509	Washington	WA	US	206	1957	
-510	California	CA	US	415	1991-09-02	
-512	Texas	TX	US		1952	No
-513	Ohio	OH	US		1952	No
-514	Quebec	QC	CA		1952	No
-515	Iowa	IA	US		1952	No
-516	New York	NY	US		1952	No
-517	Michigan	MI	US		1952	No
-518	New York	NY	US		1952	No
-519	Ontario	ON	CA	416/613	1953	
-520	Arizona	AZ	US	602	1995-03-19	No
-530	California	CA	US	916	1997-11-01	No
-531	Nebraska	NE	US			
-533	Not Applicable	NA	NA			
-534	Wisconsin	WI	US			
-539	Oklahoma	OK	US			
-540	Virginia	VA	US	703	1995-07-15	No
-541	Oregon	OR	US	503	1995-11-05	No
-544	Not Applicable	NA	NA			
-551	New Jersey	NJ	US			
-559	California	CA	US	209	1998-11-14	No
-561	Florida	FL	US	407	1996-05-13	No
-562	California	CA	US	310	1997-01-25	No
-563	Iowa	IA	US			
-566	Not Applicable	NA	NA			
-567	Ohio	OH	US			
-570	Pennsylvania	PA	US	717	1998-12-05	No
-571	Virginia	VA	US	703	2000-03-01	Yes
-573	Missouri	MO	US	314	1996-01-07	No
-574	Indiana	IN	US			
-575	New Mexico	NM	US			
-577	Not Applicable	NA	NA			
-579	Quebec	QC	CA			
-580	Oklahoma	OK	US	405	1997-11-01	No
-581	Quebec	QC	CA			
-585	New York	NY	US			
-586	Michigan	MI	US			
-587	Alberta	AB	CA			
-600	Not Applicable	NA	NA			
-601	Mississippi	MS	US		1952	No
-602	Arizona	AZ	US		1952	No
-603	New Hampshire	NH	US		1952	No
-604	British Columbia	BC	CA		1952	No
-605	South Dakota	SD	US		1952	No
-606	Kentucky	KY	US	502	1954	
-607	New York	NY	US	315/716	1954	
-608	Wisconsin	WI	US	414/715	1955	
-609	New Jersey	NJ	US	201	1958	
-610	Pennsylvania	PA	US	215	1994-01-08	
-612	Minnesota	MN	US		1952	No
-613	Ontario	ON	CA		1952	No
-614	Ohio	OH	US		1952	No
-615	Tennessee	TN	US	901	1954	
-616	Michigan	MI	US		1952	No
-617	Massachusetts	MA	US		1952	No
-618	Illinois	IL	US		1952	No
-619	California	CA	US	714	1982/11	
-620	Kansas	KS	US			
-622	Not Applicable	NA	NA			
-623	Arizona	AZ	US	602	1999-03-01	No
-626	California	CA	US	818	1997-06-14	No
-628	California	CA	US			
-629	Tennessee	TN	US			
-630	Illinois	IL	US	708	1996-08-03	No
-631	New York	NY	US	516	1999-11-01	No
-636	Missouri	MO	US	314	1999-05-22	No
-639	Saskatchewan	SK	CA			
-641	Iowa	IA	US	515	2000-07-09	No
-646	New York	NY	US	212	1999-07-01	Yes
-647	Ontario	ON	CA			
-649	Turks and Caicos Islands	TC	TC	809	1997-06-01	No
-650	California	CA	US	415	1997-08-02	No
-651	Minnesota	MN	US	612	1998-07-12	No
-657	California	CA	US			
-660	Missouri	MO	US	816	1997-10-12	No
-661	California	CA	US	805	1999-02-13	No
-662	Mississippi	MS	US	601	1999-04-19	No
-664	Mississippi	MS	US	809	1996-07-01	No
-667	Maryland	MD	US			
-669	California	CA	US			
-670	Northern Mariana Islands	MP	US		1997-07-01	No
-671	Guam	GU	US		1997-07-01	No
-678	Georgia	GA	US	770	1998-01-06	Yes
-681	West Virginia	WV	US			
-682	Texas	TX	US	817	2000-10-07	Yes
-684	American Samoa	AS	US			
-700	Not Applicable	NA	NA			
-701	North Dakota	ND	US		1952	No
-702	Nevada	NV	US		1952	No
-703	Virginia	VA	US		1952	No
-704	North Carolina	NC	US		1952	No
-705	Ontario	ON	CA	613/519	1957	
-706	Georgia	GA	US	404	1992-05-03	
-707	California	CA	US	415	1959	
-708	Illinois	IL	US	312	1989/11	
-709	Newfoundland and Labrador	NL	CA	506	1962	
-710	Not Applicable	NA	NA			
-712	Iowa	IA	US		1952	No
-713	Texas	TX	US		1952	No
-714	California	CA	US		1952	No
-715	Wisconsin	WI	US		1952	No
-716	New York	NY	US		1952	No
-717	Pennsylvania	PA	US		1952	No
-718	New York	NY	US	212	1984-09-02	
-719	Colorado	CO	US	303	1988-03-05	
-720	Colorado	CO	US	303	1998-06-01	Yes
-721	Saint Martin	MF	MF			
-724	Pennsylvania	PA	US	412	1998-02-01	No
-725	Nevada	NV	US			
-727	Florida	FL	US	813	1998-07-01	No
-731	Tennessee	TN	US			
-732	New Jersey	NJ	US	908	1997-06-01	No
-734	Michigan	MI	US	313	1997-12-13	No
-737	Texas	TX	US			
-740	Ohio	OH	US	614	1997-12-06	No
-747	California	CA	US			
-754	Florida	FL	US			
-757	Virginia	VA	US	804	1996-07-01	No
-758	Saint Lucia	LC	LC	809	1996-07-01	No
-760	California	CA	US	619	1997-03-22	No
-762	Georgia	GA	US			
-763	Minnesota	MN	US	612	2000-02-27	No
-765	Indiana	IN	US	317	1997-02-01	No
-767	Dominica	DM	DM	809	1997-10-01	No
-769	Mississippi	MS	US			
-770	Georgia	GA	US	404	1995-08-01	No
-772	Florida	FL	US			
-773	Illinois	IL	US	312	1996-10-12	No
-774	Massachusetts	MA	US			
-775	Nevada	NV	US	702	1998-12-12	No
-778	British Columbia	BC	CA			
-779	Illinois	IL	US			
-780	Alberta	AB	CA	403	1999-01-25	No
-781	Massachusetts	MA	US	617	1997-09-01	No
-782	Nova Scotia	NS	CA			
-784	Saint Vincent and the Grenadines	VC	VC	809	1998-06-01	No
-785	Kansas	KS	US	913	1997-07-20	No
-786	Florida	FL	US	305	1998-03-01	Yes
-787	Puerto Rico	PR	US	809	1996-03-01	No
-800	Not Applicable	NA	NA			
-801	Utah	UT	US		1952	No
-802	Vermont	VT	US		1952	No
-803	South Carolina	SC	US		1952	No
-804	Virginia	VA	US	703	1973-06-24	
-805	California	CA	US	213/415/916	1957	
-806	Texas	TX	US	915/817	1957	
-807	Ontario	ON	CA	705	1962	
-808	Hawaii	HI	US		1957	No
-809	Dominican Republic	DO	DO		1958	
-810	Michigan	MI	US	313	1993-12-01	
-812	Indiana	IN	US		1952	No
-813	Florida	FL	US	305	1953	
-814	Pennsylvania	PA	US		1952	No
-815	Illinois	IL	US		1952	No
-816	Missouri	MO	US		1952	No
-817	Texas	TX	US	915/214	1953	
-818	California	CA	US	213	1984/01	
-819	Quebec	QC	CA	514/418	1957	
-828	North Carolina	NC	US	704	1998-03-22	No
-829	Dominican Republic	DO	DO			
-830	Texas	TX	US	210	1997-07-07	No
-831	California	CA	US	408	1998-07-11	No
-832	Texas	TX	US	713	1999-01-16	Yes
-843	South Carolina	SC	US	803	1998-03-22	No
-844	Not Applicable	NA	NA			
-845	New York	NY	US	914	2000-06-05	No
-847	Illinois	IL	US	708	1996-01-20	No
-848	New Jersey	NJ	US			
-849	Dominican Republic	DO	DO			
-850	Florida	FL	US	904	1997-06-23	No
-855	Not Applicable	NA	NA			
-856	New Jersey	NJ	US	609	1999-06-12	No
-857	Massachusetts	MA	US			
-858	California	CA	US	619	1999-06-12	No
-859	Kentucky	KY	US	606	2000-04-01	No
-860	Connecticut	CT	US	203	1995-08-28	No
-862	New Jersey	NJ	US			
-863	Florida	FL	US	941	1999-09-20	No
-864	South Carolina	SC	US	803	1995-12-03	No
-865	Tennessee	TN	US	423	1999-11-01	No
-866	Not Applicable	NA	NA		2000-07-29	
-867	Yukon	YT	CA	403	1997-10-21	No
-868	Trinidad and Tobago	TT	TT	809	1997-06-01	No
-869	Saint Kitts and Nevis	KN	KN	809	1996-10-01	No
-870	Arkansas	AR	US	501	1997-04-14	No
-872	Illinois	IL	US			
-873	Quebec	QC	CA			
-876	Jamaica	JM	JM	809	1997-05-01	No
-877	Not Applicable	NA	NA		1998-04-08	
-878	Pennsylvania	PA	US			
-888	Not Applicable	NA	NA		1996-03-01	
-900	Not Applicable	NA	NA			
-901	Tennessee	TN	US		1952	No
-902	Nova Scotia	NS	CA		1952	No
-903	Texas	TX	US	214	1990-11-04	
-904	Florida	FL	US	305	1965/07	
-905	Ontario	ON	CA	416	1993-10-04	
-906	Michigan	MI	US	616	1961	
-907	Alaska	AK	US		1957	No
-908	New Jersey	NJ	US	201	1991-01-01	
-909	California	CA	US	714	1992-11-14	
-910	North Carolina	NC	US	919	1993-11-14	
-912	Georgia	GA	US	404	1954	
-913	Kansas	KS	US		1952	No
-914	New York	NY	US		1952	No
-915	Texas	TX	US		1952	No
-916	California	CA	US		1952	No
-917	New York	NY	US	212/718	1992-01-01	Yes
-918	Oklahoma	OK	US	405	1953	
-919	North Carolina	NC	US	704	1954	
-920	Wisconsin	WI	US	414	1997-07-26	No
-925	California	CA	US	510	1998-03-14	No
-928	Arizona	AZ	US			
-929	New York	NY	US			
-930	Indiana	IN	US			
-931	Tennessee	TN	US	615	1997-09-15	No
-936	Texas	TX	US	409	2000-02-19	No
-937	Ohio	OH	US	513	1996-09-28	No
-938	Alabama	AL	US			
-939	Puerto Rico	PR	US			
-940	Texas	TX	US	817	1997-05-25	No
-941	Florida	FL	US	813	1995-05-28	No
-947	Michigan	MI	US			
-949	California	CA	US	714	1998-04-18	No
-951	California	CA	US			
-952	Minnesota	MN	US	612	2000-02-27	No
-954	Florida	FL	US	305	1995-09-11	No
-956	Texas	TX	US	210	1997-07-07	No
-959	Connecticut	CT	US			
-970	Colorado	CO	US	303	1995-04-02	No
-971	Oregon	OR	US	503	2000-10-01	Yes
-972	Texas	TX	US	214	1996-09-14	Yes
-973	New Jersey	NJ	US	201	1997-06-01	No
-978	Massachusetts	MA	US	508	1997-09-01	No
-979	Texas	TX	US	409	2000-02-19	No
-980	North Carolina	NC	US			
-984	North Carolina	NC	US			
-985	Louisiana	LA	US			
-989	Michigan	MI	US			
+areacode	cities	locodes	state name	state	country	parent areacode	introduced	overlay
+201			New Jersey	NJ	US		1952	No
+202			Washington, DC	DC	US		1952	No
+203			Connecticut	CT	US		1952	No
+204	Winnipeg	CAWNP	Manitoba	MB	CA		1952	No
+205			Alabama	AL	US		1952	No
+206			Washington	WA	US		1952	No
+207			Maine	ME	US		1952	No
+208			Idaho	ID	US		1952	No
+209			California	CA	US	916	1958	
+210			Texas	TX	US	512	1992-11-01	
+212			New York	NY	US		1952	No
+213			California	CA	US		1952	No
+214			Texas	TX	US		1952	No
+215			Pennsylvania	PA	US		1952	No
+216			Ohio	OH	US		1952	No
+217			Illinois	IL	US		1952	No
+218			Minnesota	MN	US		1952	No
+219			Indiana	IN	US		1952	No
+224			Illinois	IL	US			
+225			Louisiana	LA	US	504	1998-08-17	No
+226	London	CALOD	Ontario	ON	CA			
+228			Mississippi	MS	US	601	1997-09-15	No
+229			Georgia	GA	US	912	2000-08-01	No
+231			Michigan	MI	US	616	1999-06-05	No
+234			Ohio	OH	US	330	2000-10-30	Yes
+236	Vancouver	CAVAN	British Columbia	BC	CA			
+239			Florida	FL	US			
+240			Maryland	MD	US	301	1997-06-01	Yes
+242			British Columbia	BC	CA	809	1996-10-01	No
+246			Barbados	BB	BB	809	1996-07-01	No
+248			Michigan	MI	US	810	1997-05-10	No
+249	Sault Ste. Marie	CASSM	Ontario	ON	CA			
+250	Victoria	CAVIC	British Columbia	BC	CA	604	1996-10-19	No
+251			Alabama	AL	US			
+252			North Carolina	NC	US	919	1998-03-22	No
+253			Washington	WA	US	206	1997-04-27	No
+254			Texas	TX	US	817	1997-05-25	No
+256			Alabama	AL	US	205	1998-03-23	No
+260			Indiana	IN	US			
+262			Wisconsin	WI	US	414	1999-09-25	No
+264			Anguilla	AI	AI	809	1997-03-31	No
+267			Pennsylvania	PA	US	215	1999-06-05	Yes
+268			Antigua and Barbuda	AG	AG	809	1996-04-01	No
+269			Michigan	MI	US			
+270			Kentucky	KY	US	502	1999-04-19	No
+272			Pennsylvania	PA	US			
+276			Virginia	VA	US			
+281			Texas	TX	US	713	1996-11-02	No
+284			British Virgin Islands	VG	VG	809	1997-10-01	No
+289	Mississauga	CAMIS	Ontario	ON	CA			
+301			Maryland	MD	US		1952	No
+302			Delaware	DE	US		1952	No
+303			Colorado	CO	US		1952	No
+304			West Virginia	WV	US		1952	No
+305			Florida	FL	US		1952	No
+306	Saskatoon	CASAK	Saskatchewan	SK	CA		1952	No
+307			Wyoming	WY	US		1952	No
+308			Nebraska	NE	US	402	1954	
+309			Illinois	IL	US	217/815	1957	
+310			California	CA	US	213	1991-11-02	
+312			Illinois	IL	US		1952	No
+313			Michigan	MI	US		1952	No
+314			Missouri	MO	US		1952	No
+315			New York	NY	US		1952	No
+316			Kansas	KS	US		1952	No
+317			Indiana	IN	US		1952	No
+318			Louisiana	LA	US	504	1957	
+319			Iowa	IA	US		1952	No
+320			Minnesota	MN	US	612	1996-03-17	No
+321			Florida	FL	US	407	1999-11-01	Yes
+323			California	CA	US	213	1998-06-13	No
+325			Texas	TX	US			
+330			Ohio	OH	US	216	1996-03-09	No
+331			Illinois	IL	US			
+334			Alabama	AL	US	205	1995-01-15	No
+336			North Carolina	NC	US	910	1997-12-15	No
+337			Louisiana	LA	US	318	1999-10-11	No
+339			Massachusetts	MA	US			
+340			Virgin Islands	VI	US	809	1997-06-01	No
+343	Ottawa	CAOTT	Ontario	ON	CA			
+345			Cayman Islands	CI	KY	809	1996-09-01	No
+346			Texas	TX	US			
+347			New York	NY	US	718	1999-10-01	Yes
+351			Massachusetts	MA	US			
+352			Florida	FL	US	904	1995-12-03	No
+360			Washington	WA	US	206	1995-01-15	No
+361			Texas	TX	US	512	1999-02-13	No
+364			Kentucky	KY	US			
+365			Ontario	ON	CA			
+385			Utah	UT	US			
+386			Florida	FL	US			
+401			Rhode Island	RI	US		1952	No
+402			Nebraska	NE	US		1952	No
+403	Calgary	CACAL	Alberta	AB	CA		1952	No
+404			Georgia	GA	US		1952	No
+405			Oklahoma	OK	US		1952	No
+406			Montana	MT	US		1952	No
+407			Florida	FL	US	305	1988-04-16	
+408			California	CA	US	415	1959	
+409			Texas	TX	US	713	1983/03	
+410			Maryland	MD	US	301	1991-11-01	
+412			Pennsylvania	PA	US		1952	No
+413			Massachusetts	MA	US		1952	No
+414			Wisconsin	WI	US		1952	No
+415			California	CA	US		1952	No
+416	Toronto	CATOR	Ontario	ON	CA		1952	No
+417			Missouri	MO	US		1952	No
+418	Quebec City	CAQUE	Quebec	QC	CA		1952	No
+419			Ohio	OH	US		1952	No
+423			Tennessee	TN	US	615	1995-09-11	No
+424			California	CA	US			
+425			Washington	WA	US	206	1997-04-27	No
+430			Texas	TX	US			
+431			Manitoba	MB	CA			
+432			Texas	TX	US			
+434			Virginia	VA	US			
+435			Utah	UT	US	801	1997-09-21	No
+437			Ontario	ON	CA			
+438	Montreal	CAMTR	Quebec	QC	CA			
+440			Ohio	OH	US	216	1997-08-16	No
+441			Bermuda	BM	BM	809	1995-10-01	No
+442			California	CA	US			
+443			Maryland	MD	US	410	1997-06-01	Yes
+450	Terrebonne	CATBN	Quebec	QC	CA	514	1998-06-13	No
+456			Not Applicable	NA	NA			
+458			Oregon	OR	US			
+469			Texas	TX	US	214	1999-07-01	Yes
+470			Georgia	GA	US			
+473			Grenada	GD	GD	809	1997-10-31	No
+475			Connecticut	CT	US			
+478			Georgia	GA	US	912	2000-08-01	No
+479			Arkansas	AR	US			
+480			Arizona	AZ	US	602	1999-03-01	No
+484			Pennsylvania	PA	US	610	1999-06-05	Yes
+500			Not Applicable	NA	NA			
+501			Arkansas	AR	US		1952	No
+502			Kentucky	KY	US		1952	No
+503			Oregon	OR	US		1952	No
+504			Louisiana	LA	US		1952	No
+505			New Mexico	NM	US		1952	No
+506	St. John	CASJB	New Brunswick	NB	CA	902	1955	
+507			Minnesota	MN	US	218/612	1954	
+508			Massachusetts	MA	US	617	1988-07-16	
+509			Washington	WA	US	206	1957	
+510			California	CA	US	415	1991-09-02	
+512			Texas	TX	US		1952	No
+513			Ohio	OH	US		1952	No
+514	Montreal	CAMTR	Quebec	QC	CA		1952	No
+515			Iowa	IA	US		1952	No
+516			New York	NY	US		1952	No
+517			Michigan	MI	US		1952	No
+518			New York	NY	US		1952	No
+519	London	CALOD	Ontario	ON	CA	416/613	1953	
+520			Arizona	AZ	US	602	1995-03-19	No
+530			California	CA	US	916	1997-11-01	No
+531			Nebraska	NE	US			
+533			Not Applicable	NA	NA			
+534			Wisconsin	WI	US			
+539			Oklahoma	OK	US			
+540			Virginia	VA	US	703	1995-07-15	No
+541			Oregon	OR	US	503	1995-11-05	No
+544			Not Applicable	NA	NA			
+551			New Jersey	NJ	US			
+559			California	CA	US	209	1998-11-14	No
+561			Florida	FL	US	407	1996-05-13	No
+562			California	CA	US	310	1997-01-25	No
+563			Iowa	IA	US			
+566			Not Applicable	NA	NA			
+567			Ohio	OH	US			
+570			Pennsylvania	PA	US	717	1998-12-05	No
+571			Virginia	VA	US	703	2000-03-01	Yes
+573			Missouri	MO	US	314	1996-01-07	No
+574			Indiana	IN	US			
+575			New Mexico	NM	US			
+577			Not Applicable	NA	NA			
+579	Terrebonne	CATBN	Quebec	QC	CA			
+580			Oklahoma	OK	US	405	1997-11-01	No
+581	Quebec City	CAQUE	Quebec	QC	CA			
+585			New York	NY	US			
+586			Michigan	MI	US			
+587	Calgary	CACAL	Alberta	AB	CA			
+600			Not Applicable	NA	CA			
+601			Mississippi	MS	US		1952	No
+602			Arizona	AZ	US		1952	No
+603			New Hampshire	NH	US		1952	No
+604	Vancouver	CAVAN	British Columbia	BC	CA		1952	No
+605			South Dakota	SD	US		1952	No
+606			Kentucky	KY	US	502	1954	
+607			New York	NY	US	315/716	1954	
+608			Wisconsin	WI	US	414/715	1955	
+609			New Jersey	NJ	US	201	1958	
+610			Pennsylvania	PA	US	215	1994-01-08	
+612			Minnesota	MN	US		1952	No
+613	Ottawa	CAOTT	Ontario	ON	CA		1952	No
+614			Ohio	OH	US		1952	No
+615			Tennessee	TN	US	901	1954	
+616			Michigan	MI	US		1952	No
+617			Massachusetts	MA	US		1952	No
+618			Illinois	IL	US		1952	No
+619			California	CA	US	714	1982/11	
+620			Kansas	KS	US			
+622			Not Applicable	NA	NA			
+623			Arizona	AZ	US	602	1999-03-01	No
+626			California	CA	US	818	1997-06-14	No
+628			California	CA	US			
+629			Tennessee	TN	US			
+630			Illinois	IL	US	708	1996-08-03	No
+631			New York	NY	US	516	1999-11-01	No
+636			Missouri	MO	US	314	1999-05-22	No
+639			Saskatchewan	SK	CA			
+641			Iowa	IA	US	515	2000-07-09	No
+646			New York	NY	US	212	1999-07-01	Yes
+647	Toronto	CATOR	Ontario	ON	CA			
+649			Turks and Caicos Islands	TC	TC	809	1997-06-01	No
+650			California	CA	US	415	1997-08-02	No
+651			Minnesota	MN	US	612	1998-07-12	No
+657			California	CA	US			
+660			Missouri	MO	US	816	1997-10-12	No
+661			California	CA	US	805	1999-02-13	No
+662			Mississippi	MS	US	601	1999-04-19	No
+664			Mississippi	MS	US	809	1996-07-01	No
+667			Maryland	MD	US			
+669			California	CA	US			
+670			Northern Mariana Islands	MP	US		1997-07-01	No
+671			Guam	GU	US		1997-07-01	No
+678			Georgia	GA	US	770	1998-01-06	Yes
+681			West Virginia	WV	US			
+682			Texas	TX	US	817	2000-10-07	Yes
+684			American Samoa	AS	US			
+700			Not Applicable	NA	NA			
+701			North Dakota	ND	US		1952	No
+702			Nevada	NV	US		1952	No
+703			Virginia	VA	US		1952	No
+704			North Carolina	NC	US		1952	No
+705	Sault Ste. Marie	CASSM	Ontario	ON	CA	613/519	1957	
+706			Georgia	GA	US	404	1992-05-03	
+707			California	CA	US	415	1959	
+708			Illinois	IL	US	312	1989/11	
+709	St. John's	CASJF	Newfoundland and Labrador	NL	CA	506	1962	
+710			Not Applicable	NA	NA			
+712			Iowa	IA	US		1952	No
+713			Texas	TX	US		1952	No
+714			California	CA	US		1952	No
+715			Wisconsin	WI	US		1952	No
+716			New York	NY	US		1952	No
+717			Pennsylvania	PA	US		1952	No
+718			New York	NY	US	212	1984-09-02	
+719			Colorado	CO	US	303	1988-03-05	
+720			Colorado	CO	US	303	1998-06-01	Yes
+721			Saint Martin	MF	MF			
+724			Pennsylvania	PA	US	412	1998-02-01	No
+725			Nevada	NV	US			
+727			Florida	FL	US	813	1998-07-01	No
+731			Tennessee	TN	US			
+732			New Jersey	NJ	US	908	1997-06-01	No
+734			Michigan	MI	US	313	1997-12-13	No
+737			Texas	TX	US			
+740			Ohio	OH	US	614	1997-12-06	No
+747			California	CA	US			
+754			Florida	FL	US			
+757			Virginia	VA	US	804	1996-07-01	No
+758			Saint Lucia	LC	LC	809	1996-07-01	No
+760			California	CA	US	619	1997-03-22	No
+762			Georgia	GA	US			
+763			Minnesota	MN	US	612	2000-02-27	No
+765			Indiana	IN	US	317	1997-02-01	No
+767			Dominica	DM	DM	809	1997-10-01	No
+769			Mississippi	MS	US			
+770			Georgia	GA	US	404	1995-08-01	No
+772			Florida	FL	US			
+773			Illinois	IL	US	312	1996-10-12	No
+774			Massachusetts	MA	US			
+775			Nevada	NV	US	702	1998-12-12	No
+778	Vancouver	CAVAN	British Columbia	BC	CA			
+779			Illinois	IL	US			
+780	Edmonton	CAEDM	Alberta	AB	CA	403	1999-01-25	No
+781			Massachusetts	MA	US	617	1997-09-01	No
+782			Nova Scotia	NS	CA			
+784			Saint Vincent and the Grenadines	VC	VC	809	1998-06-01	No
+785			Kansas	KS	US	913	1997-07-20	No
+786			Florida	FL	US	305	1998-03-01	Yes
+787			Puerto Rico	PR	US	809	1996-03-01	No
+800			Not Applicable	NA	NA			
+801			Utah	UT	US		1952	No
+802			Vermont	VT	US		1952	No
+803			South Carolina	SC	US		1952	No
+804			Virginia	VA	US	703	1973-06-24	
+805			California	CA	US	213/415/916	1957	
+806			Texas	TX	US	915/817	1957	
+807	Thunder Bay	CATHU	Ontario	ON	CA	705	1962	
+808			Hawaii	HI	US		1957	No
+809			Dominican Republic	DO	DO		1958	
+810			Michigan	MI	US	313	1993-12-01	
+812			Indiana	IN	US		1952	No
+813			Florida	FL	US	305	1953	
+814			Pennsylvania	PA	US		1952	No
+815			Illinois	IL	US		1952	No
+816			Missouri	MO	US		1952	No
+817			Texas	TX	US	915/214	1953	
+818			California	CA	US	213	1984/01	
+819	Gatineau	CAGAT	Quebec	QC	CA	514/418	1957	
+828			North Carolina	NC	US	704	1998-03-22	No
+829			Dominican Republic	DO	DO			
+830			Texas	TX	US	210	1997-07-07	No
+831			California	CA	US	408	1998-07-11	No
+832			Texas	TX	US	713	1999-01-16	Yes
+843			South Carolina	SC	US	803	1998-03-22	No
+844			Not Applicable	NA	NA			
+845			New York	NY	US	914	2000-06-05	No
+847			Illinois	IL	US	708	1996-01-20	No
+848			New Jersey	NJ	US			
+849			Dominican Republic	DO	DO			
+850			Florida	FL	US	904	1997-06-23	No
+855			Not Applicable	NA	NA			
+856			New Jersey	NJ	US	609	1999-06-12	No
+857			Massachusetts	MA	US			
+858			California	CA	US	619	1999-06-12	No
+859			Kentucky	KY	US	606	2000-04-01	No
+860			Connecticut	CT	US	203	1995-08-28	No
+862			New Jersey	NJ	US			
+863			Florida	FL	US	941	1999-09-20	No
+864			South Carolina	SC	US	803	1995-12-03	No
+865			Tennessee	TN	US	423	1999-11-01	No
+866			Not Applicable	NA	NA		2000-07-29	
+867	Yellowknife	CAYZF	Yukon	YT	CA	403	1997-10-21	No
+868			Trinidad and Tobago	TT	TT	809	1997-06-01	No
+869			Saint Kitts and Nevis	KN	KN	809	1996-10-01	No
+870			Arkansas	AR	US	501	1997-04-14	No
+872			Illinois	IL	US			
+873			Quebec	QC	CA			
+876			Jamaica	JM	JM	809	1997-05-01	No
+877			Not Applicable	NA	NA		1998-04-08	
+878			Pennsylvania	PA	US			
+888			Not Applicable	NA	NA		1996-03-01	
+900			Not Applicable	NA	NA			
+901			Tennessee	TN	US		1952	No
+902	Halifax	CAHAL	Nova Scotia	NS	CA		1952	No
+903			Texas	TX	US	214	1990-11-04	
+904			Florida	FL	US	305	1965/07	
+905	Mississauga	CAMIS	Ontario	ON	CA	416	1993-10-04	
+906			Michigan	MI	US	616	1961	
+907			Alaska	AK	US		1957	No
+908			New Jersey	NJ	US	201	1991-01-01	
+909			California	CA	US	714	1992-11-14	
+910			North Carolina	NC	US	919	1993-11-14	
+912			Georgia	GA	US	404	1954	
+913			Kansas	KS	US		1952	No
+914			New York	NY	US		1952	No
+915			Texas	TX	US		1952	No
+916			California	CA	US		1952	No
+917			New York	NY	US	212/718	1992-01-01	Yes
+918			Oklahoma	OK	US	405	1953	
+919			North Carolina	NC	US	704	1954	
+920			Wisconsin	WI	US	414	1997-07-26	No
+925			California	CA	US	510	1998-03-14	No
+928			Arizona	AZ	US			
+929			New York	NY	US			
+930			Indiana	IN	US			
+931			Tennessee	TN	US	615	1997-09-15	No
+936			Texas	TX	US	409	2000-02-19	No
+937			Ohio	OH	US	513	1996-09-28	No
+938			Alabama	AL	US			
+939			Puerto Rico	PR	US			
+940			Texas	TX	US	817	1997-05-25	No
+941			Florida	FL	US	813	1995-05-28	No
+947			Michigan	MI	US			
+949			California	CA	US	714	1998-04-18	No
+951			California	CA	US			
+952			Minnesota	MN	US	612	2000-02-27	No
+954			Florida	FL	US	305	1995-09-11	No
+956			Texas	TX	US	210	1997-07-07	No
+959			Connecticut	CT	US			
+970			Colorado	CO	US	303	1995-04-02	No
+971			Oregon	OR	US	503	2000-10-01	Yes
+972			Texas	TX	US	214	1996-09-14	Yes
+973			New Jersey	NJ	US	201	1997-06-01	No
+978			Massachusetts	MA	US	508	1997-09-01	No
+979			Texas	TX	US	409	2000-02-19	No
+980			North Carolina	NC	US			
+984			North Carolina	NC	US			
+985			Louisiana	LA	US			
+989			Michigan	MI	US			
