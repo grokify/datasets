@@ -1,0 +1,383 @@
+areacode	state name	state	country
+201	New Jersey	NJ	US
+202	Washington, DC	DC	US
+203	Connecticut	CT	US
+204	Manitoba	MB	CA
+205	Alabama	AL	US
+206	Washington	WA	US
+207	Maine	ME	US
+208	Idaho	ID	US
+209	California	CA	US
+210	Texas	TX	US
+212	New York	NY	US
+213	California	CA	US
+214	Texas	TX	US
+215	Pennsylvania	PA	US
+216	Ohio	OH	US
+217	Illinois	IL	US
+218	Minnesota	MN	US
+219	Indiana	IN	US
+224	Illinois	IL	US
+225	Louisiana	LA	US
+226	Ontario	ON	CA
+228	Mississippi	MS	US
+229	Georgia	GA	US
+231	Michigan	MI	US
+234	Ohio	OH	US
+236	British Columbia	BC	CA
+239	Florida	FL	US
+240	Maryland	MD	US
+242	British Columbia	BC	CA
+246	Barbados	BB	BB
+248	Michigan	MI	US
+249	Ontario	ON	CA
+250	British Columbia	BC	CA
+251	Alabama	AL	US
+252	North Carolina	NC	US
+253	Washington	WA	US
+254	Texas	TX	US
+256	Alabama	AL	US
+260	Indiana	IN	US
+262	Wisconsin	WI	US
+264	Anguilla	AI	AI
+267	Pennsylvania	PA	US
+268	Antigua and Barbuda	AG	AG
+269	Michigan	MI	US
+270	Kentucky	KY	US
+272	Pennsylvania	PA	US
+276	Virginia	VA	US
+281	Texas	TX	US
+284	British Virgin Islands	VG	VG
+289	Ontario	ON	CA
+301	Maryland	MD	US
+302	Delaware	DE	US
+303	Colorado	CO	US
+304	West Virginia	WV	US
+305	Florida	FL	US
+306	Saskatchewan	SK	CA
+307	Wyoming	WY	US
+308	Nebraska	NE	US
+309	Illinois	IL	US
+310	California	CA	US
+312	Illinois	IL	US
+313	Michigan	MI	US
+314	Missouri	MO	US
+315	New York	NY	US
+316	Kansas	KS	US
+317	Indiana	IN	US
+318	Louisiana	LA	US
+319	Iowa	IA	US
+320	Minnesota	MN	US
+321	Florida	FL	US
+323	California	CA	US
+325	Texas	TX	US
+330	Ohio	OH	US
+331	Illinois	IL	US
+334	Alabama	AL	US
+336	North Carolina	NC	US
+337	Louisiana	LA	US
+339	Massachusetts	MA	US
+340	Virgin Islands	VI	US
+343	Ontario	ON	CA
+345	Cayman Islands	CI	KY
+346	Texas	TX	US
+347	New York	NY	US
+351	Massachusetts	MA	US
+352	Florida	FL	US
+360	Washington	WA	US
+361	Texas	TX	US
+364	Kentucky	KY	US
+365	Ontario	ON	CA
+385	Utah	UT	US
+386	Florida	FL	US
+401	Rhode Island	RI	US
+402	Nebraska	NE	US
+403	Alberta	AB	CA
+404	Georgia	GA	US
+405	Oklahoma	OK	US
+406	Montana	MT	US
+407	Florida	FL	US
+408	California	CA	US
+409	Texas	TX	US
+410	Maryland	MD	US
+412	Pennsylvania	PA	US
+413	Massachusetts	MA	US
+414	Wisconsin	WI	US
+415	California	CA	US
+416	Ontario	ON	CA
+417	Missouri	MO	US
+418	Quebec	QC	CA
+419	Ohio	OH	US
+423	Tennessee	TN	US
+424	California	CA	US
+425	Washington	WA	US
+430	Texas	TX	US
+431	Manitoba	MB	CA
+432	Texas	TX	US
+434	Virginia	VA	US
+435	Utah	UT	US
+437	Ontario	ON	CA
+438	Quebec	QC	CA
+440	Ohio	OH	US
+441	Bermuda	BM	BM
+442	California	CA	US
+443	Maryland	MD	US
+450	Quebec	QC	CA
+456	Not Applicable	NA	NA
+458	Oregon	OR	US
+469	Texas	TX	US
+470	Georgia	GA	US
+473	Grenada	GD	GD
+475	Connecticut	CT	US
+478	Georgia	GA	US
+479	Arkansas	AR	US
+480	Arizona	AZ	US
+484	Pennsylvania	PA	US
+500	Not Applicable	NA	NA
+501	Arkansas	AR	US
+502	Kentucky	KY	US
+503	Oregon	OR	US
+504	Louisiana	LA	US
+505	New Mexico	NM	US
+506	New Brunswick	NB	CA
+507	Minnesota	MN	US
+508	Massachusetts	MA	US
+509	Washington	WA	US
+510	California	CA	US
+512	Texas	TX	US
+513	Ohio	OH	US
+514	Quebec	QC	CA
+515	Iowa	IA	US
+516	New York	NY	US
+517	Michigan	MI	US
+518	New York	NY	US
+519	Ontario	ON	CA
+520	Arizona	AZ	US
+530	California	CA	US
+531	Nebraska	NE	US
+533	Not Applicable	NA	NA
+534	Wisconsin	WI	US
+539	Oklahoma	OK	US
+540	Virginia	VA	US
+541	Oregon	OR	US
+544	Not Applicable	NA	NA
+551	New Jersey	NJ	US
+559	California	CA	US
+561	Florida	FL	US
+562	California	CA	US
+563	Iowa	IA	US
+566	Not Applicable	NA	NA
+567	Ohio	OH	US
+570	Pennsylvania	PA	US
+571	Virginia	VA	US
+573	Missouri	MO	US
+574	Indiana	IN	US
+575	New Mexico	NM	US
+577	Not Applicable	NA	NA
+579	Quebec	QC	CA
+580	Oklahoma	OK	US
+581	Quebec	QC	CA
+585	New York	NY	US
+586	Michigan	MI	US
+587	Alberta	AB	CA
+600	Not Applicable	NA	NA
+601	Mississippi	MS	US
+602	Arizona	AZ	US
+603	New Hampshire	NH	US
+604	British Columbia	BC	CA
+605	South Dakota	SD	US
+606	Kentucky	KY	US
+607	New York	NY	US
+608	Wisconsin	WI	US
+609	New Jersey	NJ	US
+610	Pennsylvania	PA	US
+612	Minnesota	MN	US
+613	Ontario	ON	CA
+614	Ohio	OH	US
+615	Tennessee	TN	US
+616	Michigan	MI	US
+617	Massachusetts	MA	US
+618	Illinois	IL	US
+619	California	CA	US
+620	Kansas	KS	US
+622	Not Applicable	NA	NA
+623	Arizona	AZ	US
+626	California	CA	US
+628	California	CA	US
+629	Tennessee	TN	US
+630	Illinois	IL	US
+631	New York	NY	US
+636	Missouri	MO	US
+639	Saskatchewan	SK	CA
+641	Iowa	IA	US
+646	New York	NY	US
+647	Ontario	ON	CA
+649	Turks and Caicos Islands	TC	TC
+650	California	CA	US
+651	Minnesota	MN	US
+657	California	CA	US
+660	Missouri	MO	US
+661	California	CA	US
+662	Mississippi	MS	US
+664	Mississippi	MS	US
+667	Maryland	MD	US
+669	California	CA	US
+670	Northern Mariana Islands	MP	US
+671	Guam	GU	US
+678	Georgia	GA	US
+681	West Virginia	WV	US
+682	Texas	TX	US
+684	American Samoa	AS	US
+700	Not Applicable	NA	NA
+701	North Dakota	ND	US
+702	Nevada	NV	US
+703	Virginia	VA	US
+704	North Carolina	NC	US
+705	Ontario	ON	CA
+706	Georgia	GA	US
+707	California	CA	US
+708	Illinois	IL	US
+709	Newfoundland and Labrador	NL	CA
+710	Not Applicable	NA	NA
+712	Iowa	IA	US
+713	Texas	TX	US
+714	California	CA	US
+715	Wisconsin	WI	US
+716	New York	NY	US
+717	Pennsylvania	PA	US
+718	New York	NY	US
+719	Colorado	CO	US
+720	Colorado	CO	US
+721	Saint Martin	MF	MF
+724	Pennsylvania	PA	US
+725	Nevada	NV	US
+727	Florida	FL	US
+731	Tennessee	TN	US
+732	New Jersey	NJ	US
+734	Michigan	MI	US
+737	Texas	TX	US
+740	Ohio	OH	US
+747	California	CA	US
+754	Florida	FL	US
+757	Virginia	VA	US
+758	Saint Lucia	LC	LC
+760	California	CA	US
+762	Georgia	GA	US
+763	Minnesota	MN	US
+765	Indiana	IN	US
+767	Dominica	DM	DM
+769	Mississippi	MS	US
+770	Georgia	GA	US
+772	Florida	FL	US
+773	Illinois	IL	US
+774	Massachusetts	MA	US
+775	Nevada	NV	US
+778	British Columbia	BC	CA
+779	Illinois	IL	US
+780	Alberta	AB	CA
+781	Massachusetts	MA	US
+782	Nova Scotia	NS	CA
+784	Saint Vincent and the Grenadines	VC	VC
+785	Kansas	KS	US
+786	Florida	FL	US
+787	Puerto Rico	PR	US
+800	Not Applicable	NA	NA
+801	Utah	UT	US
+802	Vermont	VT	US
+803	South Carolina	SC	US
+804	Virginia	VA	US
+805	California	CA	US
+806	Texas	TX	US
+807	Ontario	ON	CA
+808	Hawaii	HI	US
+809	Dominican Republic	DO	DO
+810	Michigan	MI	US
+812	Indiana	IN	US
+813	Florida	FL	US
+814	Pennsylvania	PA	US
+815	Illinois	IL	US
+816	Missouri	MO	US
+817	Texas	TX	US
+818	California	CA	US
+819	Quebec	QC	CA
+828	North Carolina	NC	US
+829	Dominican Republic	DO	DO
+830	Texas	TX	US
+831	California	CA	US
+832	Texas	TX	US
+843	South Carolina	SC	US
+844	Not Applicable	NA	NA
+845	New York	NY	US
+847	Illinois	IL	US
+848	New Jersey	NJ	US
+849	Dominican Republic	DO	DO
+850	Florida	FL	US
+855	Not Applicable	NA	NA
+856	New Jersey	NJ	US
+857	Massachusetts	MA	US
+858	California	CA	US
+859	Kentucky	KY	US
+860	Connecticut	CT	US
+862	New Jersey	NJ	US
+863	Florida	FL	US
+864	South Carolina	SC	US
+865	Tennessee	TN	US
+866	Not Applicable	NA	NA
+867	Yukon	YT	CA
+868	Trinidad and Tobago	TT	TT
+869	Saint Kitts and Nevis	KN	KN
+870	Arkansas	AR	US
+872	Illinois	IL	US
+873	Quebec	QC	CA
+876	Jamaica	JM	JM
+877	Not Applicable	NA	NA
+878	Pennsylvania	PA	US
+888	Not Applicable	NA	NA
+900	Not Applicable	NA	NA
+901	Tennessee	TN	US
+902	Nova Scotia	NS	CA
+903	Texas	TX	US
+904	Florida	FL	US
+905	Ontario	ON	CA
+906	Michigan	MI	US
+907	Alaska	AK	US
+908	New Jersey	NJ	US
+909	California	CA	US
+910	North Carolina	NC	US
+912	Georgia	GA	US
+913	Kansas	KS	US
+914	New York	NY	US
+915	Texas	TX	US
+916	California	CA	US
+917	New York	NY	US
+918	Oklahoma	OK	US
+919	North Carolina	NC	US
+920	Wisconsin	WI	US
+925	California	CA	US
+928	Arizona	AZ	US
+929	New York	NY	US
+930	Indiana	IN	US
+931	Tennessee	TN	US
+936	Texas	TX	US
+937	Ohio	OH	US
+938	Alabama	AL	US
+939	Puerto Rico	PR	US
+940	Texas	TX	US
+941	Florida	FL	US
+947	Michigan	MI	US
+949	California	CA	US
+951	California	CA	US
+952	Minnesota	MN	US
+954	Florida	FL	US
+956	Texas	TX	US
+959	Connecticut	CT	US
+970	Colorado	CO	US
+971	Oregon	OR	US
+972	Texas	TX	US
+973	New Jersey	NJ	US
+978	Massachusetts	MA	US
+979	Texas	TX	US
+980	North Carolina	NC	US
+984	North Carolina	NC	US
+985	Louisiana	LA	US
+989	Michigan	MI	US
