@@ -290,7 +290,7 @@ areacode	cities	locodes	state name	state	country	parent areacode	introduced	over
 806	Lubbock	USLBB	Texas	TX	US	915/817	1957	
 807	Thunder Bay	CATHU	Ontario	ON	CA	705	1962	
 808	Honolulu	USHNL	Hawaii	HI	US		1957	No
-809			Dominican Republic	DO	DO		1958	
+809	Santo Domingo	DOSDQ	Dominican Republic	DO	DO		1958	
 810	Flint	USFNT	Michigan	MI	US	313	1993-12-01	
 812	Evansville	USEVV	Indiana	IN	US		1952	No
 813	Tampa	USTPA	Florida	FL	US	305	1953	
@@ -301,7 +301,7 @@ areacode	cities	locodes	state name	state	country	parent areacode	introduced	over
 818	Los Angeles	USLAX	California	CA	US	213	1984/01	
 819	Yamachiche	CAZYE	Quebec	QC	CA	514/418	1957	
 828	Asheville	USAEV	North Carolina	NC	US	704	1998-03-22	No
-829			Dominican Republic	DO	DO			
+829	Santo Domingo	DOSDQ	Dominican Republic	DO	DO	809		Yes
 830	New Braunfels	USNHB	Texas	TX	US	210	1997-07-07	No
 831	Salinas	USSNS	California	CA	US	408	1998-07-11	No
 832	Houston	USHOU	Texas	TX	US	713	1999-01-16	Yes
@@ -310,7 +310,7 @@ areacode	cities	locodes	state name	state	country	parent areacode	introduced	over
 845	Poughkeepsie	USPOU	New York	NY	US	914	2000-06-05	No
 847	Chicago	USCHI	Illinois	IL	US	708	1996-01-20	No
 848	Newark	USEWR	New Jersey	NJ	US			
-849			Dominican Republic	DO	DO			
+849	Santo Domingo	DOSDQ	Dominican Republic	DO	DO	809		Yes
 850	Pensacola	USPNS	Florida	FL	US	904	1997-06-23	No
 855			Not Applicable	NA	NA			
 856	Camden	USCDE	New Jersey	NJ	US	609	1999-06-12	No
@@ -324,12 +324,12 @@ areacode	cities	locodes	state name	state	country	parent areacode	introduced	over
 865	Knoxville	USTYS	Tennessee	TN	US	423	1999-11-01	No
 866			Not Applicable	NA	NA		2000-07-29	
 867	Yellowknife	CAYZF	Yukon	YT	CA	403	1997-10-21	No
-868			Trinidad and Tobago	TT	TT	809	1997-06-01	No
-869			Saint Kitts and Nevis	KN	KN	809	1996-10-01	No
+868	San Fernando	TTSFE	Trinidad and Tobago	TT	TT	809	1997-06-01	No
+869	Basseterre	KNBAS	Saint Kitts and Nevis	KN	KN	809	1996-10-01	No
 870	Jonesboro	USJBR	Arkansas	AR	US	501	1997-04-14	No
 872	Chicago	USCHI	Illinois	IL	US			
 873	Sherbrooke	CASBR	Quebec	QC	CA			
-876			Jamaica	JM	JM	809	1997-05-01	No
+876	Kingston	JMKIN	Jamaica	JM	JM	809	1997-05-01	No
 877			Not Applicable	NA	NA		1998-04-08	
 878	Pittsburgh	USPIT	Pennsylvania	PA	US			
 888			Not Applicable	NA	NA		1996-03-01	
