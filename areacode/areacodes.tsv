@@ -28,7 +28,7 @@ areacode	cities	locodes	state name	state	country	parent areacode	introduced	over
 239	Fort Myers	USFMY	Florida	FL	US			
 240	Baltimore	USBAL	Maryland	MD	US	301	1997-06-01	Yes
 242			British Columbia	BC	CA	809	1996-10-01	No
-246			Barbados	BB	BB	809	1996-07-01	No
+246	Bridgetown	BBBGI	Barbados	BB	BB	809	1996-07-01	No
 248	Detroit	USDET	Michigan	MI	US	810	1997-05-10	No
 249	Barrie	CABAR	Ontario	ON	CA			
 250	Zeballos	CAZEB	British Columbia	BC	CA	604	1996-10-19	No
@@ -39,15 +39,15 @@ areacode	cities	locodes	state name	state	country	parent areacode	introduced	over
 256	Huntsville	USHSV	Alabama	AL	US	205	1998-03-23	No
 260	Fort Wayne	USFWA	Indiana	IN	US			
 262	Milwaukee	USMKE	Wisconsin	WI	US	414	1999-09-25	No
-264			Anguilla	AI	AI	809	1997-03-31	No
+264	The Valley	AIVAL	Anguilla	AI	AI	809	1997-03-31	No
 267	Philadelphia	USPHL	Pennsylvania	PA	US	215	1999-06-05	Yes
-268			Antigua and Barbuda	AG	AG	809	1996-04-01	No
+268	St. John's	AGSJO	Antigua and Barbuda	AG	AG	809	1996-04-01	No
 269	Kalamazoo	USAZO	Michigan	MI	US			
 270	Bowling Green	USBWG	Kentucky	KY	US	502	1999-04-19	No
 272	Lake Ariel	USKJA	Pennsylvania	PA	US			
 276	Martinsville	USMTV	Virginia	VA	US			
 281	Houston	USHOU	Texas	TX	US	713	1996-11-02	No
-284			British Virgin Islands	VG	VG	809	1997-10-01	No
+284	Road Town	VGRAD	British Virgin Islands	VG	VG	809	1997-10-01	No
 289	Woodbridge	CAWDB	Ontario	ON	CA			
 301	Baltimore	USBAL	Maryland	MD	US		1952	No
 302	Wilmington	USILG	Delaware	DE	US		1952	No
@@ -79,7 +79,7 @@ areacode	cities	locodes	state name	state	country	parent areacode	introduced	over
 339	Boston	USBOS	Massachusetts	MA	US			
 340	Charlotte Amalie	VICHA	Virgin Islands	VI	US	809	1997-06-01	No
 343	Vankleek Hill	CAVKH	Ontario	ON	CA			
-345			Cayman Islands	CI	KY	809	1996-09-01	No
+345	George Town	KYGEC	Cayman Islands	CI	KY	809	1996-09-01	No
 346	Houston	USHOU	Texas	TX	US			
 347	Brooklyn	USBOY	New York	NY	US	718	1999-10-01	Yes
 351	Danvers	USDVR	Massachusetts	MA	US			
@@ -119,7 +119,7 @@ areacode	cities	locodes	state name	state	country	parent areacode	introduced	over
 437	Toronto	CATOR	Ontario	ON	CA			
 438	Montreal	CAMTR	Quebec	QC	CA			
 440	Cleveland	USCLE	Ohio	OH	US	216	1997-08-16	No
-441			Bermuda	BM	BM	809	1995-10-01	No
+441	Hamilton	BMBDA	Bermuda	BM	BM	809	1995-10-01	No
 442	Victorville	USVCV	California	CA	US			
 443	Baltimore	USBAL	Maryland	MD	US	410	1997-06-01	Yes
 450	Laval	CALAV	Quebec	QC	CA	514	1998-06-13	No
@@ -127,7 +127,7 @@ areacode	cities	locodes	state name	state	country	parent areacode	introduced	over
 458	Eugene	USEUG	Oregon	OR	US			
 469	Dallas	USDAL	Texas	TX	US	214	1999-07-01	Yes
 470	Atlanta	USATL	Georgia	GA	US			
-473			Grenada	GD	GD	809	1997-10-31	No
+473	St. George's	GDSTG	Grenada	GD	GD	809	1997-10-31	No
 475	New Haven	USHVN	Connecticut	CT	US			
 478	Macon	USMCN	Georgia	GA	US	912	2000-08-01	No
 479	Springdale	USSPZ	Arkansas	AR	US			
@@ -212,7 +212,7 @@ areacode	cities	locodes	state name	state	country	parent areacode	introduced	over
 641	Beaman	USIAZ	Iowa	IA	US	515	2000-07-09	No
 646	Brooklyn	USBOY	New York	NY	US	212	1999-07-01	Yes
 647	Toronto	CATOR	Ontario	ON	CA			
-649			Turks and Caicos Islands	TC	TC	809	1997-06-01	No
+649	Providenciales	TCPLS	Turks and Caicos Islands	TC	TC	809	1997-06-01	No
 650	San Jose	USSJC	California	CA	US	415	1997-08-02	No
 651	Minneapolis	USMES	Minnesota	MN	US	612	1998-07-12	No
 657	Long Beach	USLGB	California	CA	US			
@@ -248,7 +248,7 @@ areacode	cities	locodes	state name	state	country	parent areacode	introduced	over
 718	Brooklyn	USBOY	New York	NY	US	212	1984-09-02	
 719	Colorado Springs	USCOS	Colorado	CO	US	303	1988-03-05	
 720	Denver	USDEN	Colorado	CO	US	303	1998-06-01	Yes
-721			Saint Martin	MF	MF			
+721	Marigot	MFMAR	Saint Martin	MF	MF			
 724	Pittsburgh	USPIT	Pennsylvania	PA	US	412	1998-02-01	No
 725	Las Vegas	USLAS	Nevada	NV	US			
 727	Tampa	USTPA	Florida	FL	US	813	1998-07-01	No
@@ -260,12 +260,12 @@ areacode	cities	locodes	state name	state	country	parent areacode	introduced	over
 747	Los Angeles	USLAX	California	CA	US			
 754	Fort Lauderdale	USFLL	Florida	FL	US			
 757	Virginia Beach	USVAB	Virginia	VA	US	804	1996-07-01	No
-758			Saint Lucia	LC	LC	809	1996-07-01	No
+758	Castries	LCCAS	Saint Lucia	LC	LC	809	1996-07-01	No
 760	San Diego	USSAN	California	CA	US	619	1997-03-22	No
 762	Augusta	USAGS	Georgia	GA	US			
 763	Minneapolis	USMES	Minnesota	MN	US	612	2000-02-27	No
 765	Indianapolis	USIND	Indiana	IN	US	317	1997-02-01	No
-767			Dominica	DM	DM	809	1997-10-01	No
+767	Roseau	DMRSU	Dominica	DM	DM	809	1997-10-01	No
 769	Jackson	USJAN	Mississippi	MS	US			
 770	Atlanta	USATL	Georgia	GA	US	404	1995-08-01	No
 772	Port Saint Lucie	USPZL	Florida	FL	US			
@@ -277,7 +277,7 @@ areacode	cities	locodes	state name	state	country	parent areacode	introduced	over
 780	Edmonton	CAEDM	Alberta	AB	CA	403	1999-01-25	No
 781	Boston	USBOS	Massachusetts	MA	US	617	1997-09-01	No
 782			Nova Scotia	NS	CA			
-784			Saint Vincent and the Grenadines	VC	VC	809	1998-06-01	No
+784	Kingstown	VCKTN	Saint Vincent and the Grenadines	VC	VC	809	1998-06-01	No
 785	Topeka	USTOP	Kansas	KS	US	913	1997-07-20	No
 786	Miami	USMIA	Florida	FL	US	305	1998-03-01	Yes
 787	San Juan	PRSJU	Puerto Rico	PR	US	809	1996-03-01	No
@@ -290,7 +290,7 @@ areacode	cities	locodes	state name	state	country	parent areacode	introduced	over
 806	Lubbock	USLBB	Texas	TX	US	915/817	1957	
 807	Thunder Bay	CATHU	Ontario	ON	CA	705	1962	
 808	Honolulu	USHNL	Hawaii	HI	US		1957	No
-809	Santo Domingo	DOSDQ	Dominican Republic	DO	DO		1958	
+809	Santo Domingo	DOSDQ	Dominican Republic	DO	DO		1958-01-01	
 810	Flint	USFNT	Michigan	MI	US	313	1993-12-01	
 812	Evansville	USEVV	Indiana	IN	US		1952	No
 813	Tampa	USTPA	Florida	FL	US	305	1953	
@@ -301,7 +301,7 @@ areacode	cities	locodes	state name	state	country	parent areacode	introduced	over
 818	Los Angeles	USLAX	California	CA	US	213	1984/01	
 819	Yamachiche	CAZYE	Quebec	QC	CA	514/418	1957	
 828	Asheville	USAEV	North Carolina	NC	US	704	1998-03-22	No
-829	Santo Domingo	DOSDQ	Dominican Republic	DO	DO	809		Yes
+829	Santo Domingo	DOSDQ	Dominican Republic	DO	DO	809	2005-07	Yes
 830	New Braunfels	USNHB	Texas	TX	US	210	1997-07-07	No
 831	Salinas	USSNS	California	CA	US	408	1998-07-11	No
 832	Houston	USHOU	Texas	TX	US	713	1999-01-16	Yes
@@ -310,7 +310,7 @@ areacode	cities	locodes	state name	state	country	parent areacode	introduced	over
 845	Poughkeepsie	USPOU	New York	NY	US	914	2000-06-05	No
 847	Chicago	USCHI	Illinois	IL	US	708	1996-01-20	No
 848	Newark	USEWR	New Jersey	NJ	US			
-849	Santo Domingo	DOSDQ	Dominican Republic	DO	DO	809		Yes
+849	Santo Domingo	DOSDQ	Dominican Republic	DO	DO	809	2010-02-15	Yes
 850	Pensacola	USPNS	Florida	FL	US	904	1997-06-23	No
 855			Not Applicable	NA	NA			
 856	Camden	USCDE	New Jersey	NJ	US	609	1999-06-12	No
