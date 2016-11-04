@@ -7,8 +7,8 @@ areacode	cities	locodes	state name	state	country	parent areacode	introduced	over
 206	Seattle	USSEA	Washington	WA	US		1952	No
 207	Portland	USPWM	Maine	ME	US		1952	No
 208	Boise	USBOI	Idaho	ID	US		1952	No
-209	Fresno	USFAT	California	CA	US	916	1958
-210	San Antonio	USSAT	Texas	TX	US	512	1992-11-01
+209	Fresno	USFAT	California	CA	US	916	1958	
+210	San Antonio	USSAT	Texas	TX	US	512	1992-11-01	
 212	New York	USNYC	New York	NY	US		1952	No
 213	Los Angeles	USLAX	California	CA	US		1952	No
 214	Dallas	USDAL	Texas	TX	US		1952	No
@@ -17,38 +17,38 @@ areacode	cities	locodes	state name	state	country	parent areacode	introduced	over
 217	Chicago	USCHI	Illinois	IL	US		1952	No
 218	Duluth	USDLH	Minnesota	MN	US		1952	No
 219	Valparaiso	USVPZ	Indiana	IN	US		1952	No
-224	Chicago	USCHI	Illinois	IL	US
+224	Chicago	USCHI	Illinois	IL	US			
 225	Baton Rouge	USBTR	Louisiana	LA	US	504	1998-08-17	No
-226	London	CALOD	Ontario	ON	CA
+226	London	CALOD	Ontario	ON	CA			
 228	Gulfport	USGPT	Mississippi	MS	US	601	1997-09-15	No
 229	Albany	USABY	Georgia	GA	US	912	2000-08-01	No
 231	Muskegon	USMKG	Michigan	MI	US	616	1999-06-05	No
 234	Akron	USAKH	Ohio	OH	US	330	2000-10-30	Yes
-236	Vancouver	CAVAN	British Columbia	BC	CA
-239	Fort Myers	USFMY	Florida	FL	US
+236	Vancouver	CAVAN	British Columbia	BC	CA			
+239	Fort Myers	USFMY	Florida	FL	US			
 240	Baltimore	USBAL	Maryland	MD	US	301	1997-06-01	Yes
 242			British Columbia	BC	CA	809	1996-10-01	No
 246			Barbados	BB	BB	809	1996-07-01	No
 248	Detroit	USDET	Michigan	MI	US	810	1997-05-10	No
-249	Barrie	CABAR	Ontario	ON	CA
+249	Barrie	CABAR	Ontario	ON	CA			
 250	Zeballos	CAZEB	British Columbia	BC	CA	604	1996-10-19	No
-251	Mobile	USMOB	Alabama	AL	US
+251	Mobile	USMOB	Alabama	AL	US			
 252	Greenville	USPGV	North Carolina	NC	US	919	1998-03-22	No
 253	Seattle	USSEA	Washington	WA	US	206	1997-04-27	No
 254	Killeen	USILE	Texas	TX	US	817	1997-05-25	No
 256	Huntsville	USHSV	Alabama	AL	US	205	1998-03-23	No
-260	Fort Wayne	USFWA	Indiana	IN	US
+260	Fort Wayne	USFWA	Indiana	IN	US			
 262	Milwaukee	USMKE	Wisconsin	WI	US	414	1999-09-25	No
 264			Anguilla	AI	AI	809	1997-03-31	No
 267	Philadelphia	USPHL	Pennsylvania	PA	US	215	1999-06-05	Yes
 268			Antigua and Barbuda	AG	AG	809	1996-04-01	No
-269	Kalamazoo	USAZO	Michigan	MI	US
+269	Kalamazoo	USAZO	Michigan	MI	US			
 270	Bowling Green	USBWG	Kentucky	KY	US	502	1999-04-19	No
-272	Lake Ariel	USKJA	Pennsylvania	PA	US
-276	Martinsville	USMTV	Virginia	VA	US
+272	Lake Ariel	USKJA	Pennsylvania	PA	US			
+276	Martinsville	USMTV	Virginia	VA	US			
 281	Houston	USHOU	Texas	TX	US	713	1996-11-02	No
 284			British Virgin Islands	VG	VG	809	1997-10-01	No
-289	Woodbridge	CAWDB	Ontario	ON	CA
+289	Woodbridge	CAWDB	Ontario	ON	CA			
 301	Baltimore	USBAL	Maryland	MD	US		1952	No
 302	Wilmington	USILG	Delaware	DE	US		1952	No
 303	Denver	USDEN	Colorado	CO	US		1952	No
@@ -56,50 +56,50 @@ areacode	cities	locodes	state name	state	country	parent areacode	introduced	over
 305	Miami	USMIA	Florida	FL	US		1952	No
 306	Yorkton	CAYQV	Saskatchewan	SK	CA		1952	No
 307	Casper	USCPR	Wyoming	WY	US		1952	No
-308	Grand Island	USGRI	Nebraska	NE	US	402	1954
-309	Peoria	USPIA	Illinois	IL	US	217/815	1957
-310	Los Angeles	USLAX	California	CA	US	213	1991-11-02
+308	Grand Island	USGRI	Nebraska	NE	US	402	1954	
+309	Peoria	USPIA	Illinois	IL	US	217/815	1957	
+310	Los Angeles	USLAX	California	CA	US	213	1991-11-02	
 312	Chicago	USCHI	Illinois	IL	US		1952	No
 313	Detroit	USDET	Michigan	MI	US		1952	No
 314	Saint Louis	USSTL	Missouri	MO	US		1952	No
 315	Syracuse	USSYR	New York	NY	US		1952	No
 316	Wichita	USICT	Kansas	KS	US		1952	No
 317	Indianapolis	USIND	Indiana	IN	US		1952	No
-318	Shreveport	USSHV	Louisiana	LA	US	504	1957
+318	Shreveport	USSHV	Louisiana	LA	US	504	1957	
 319	Cedar Rapids	USCID	Iowa	IA	US		1952	No
 320	Saint Cloud	USSTC	Minnesota	MN	US	612	1996-03-17	No
 321	Orlando	USORL	Florida	FL	US	407	1999-11-01	Yes
 323	Los Angeles	USLAX	California	CA	US	213	1998-06-13	No
-325	Abilene	USABI	Texas	TX	US
+325	Abilene	USABI	Texas	TX	US			
 330	Akron	USAKH	Ohio	OH	US	216	1996-03-09	No
-331	Lemont	USLMJ	Illinois	IL	US
+331	Lemont	USLMJ	Illinois	IL	US			
 334	Montgomery	USMGM	Alabama	AL	US	205	1995-01-15	No
 336	Greensboro	USGBO	North Carolina	NC	US	910	1997-12-15	No
 337	Lafayette	USLFT	Louisiana	LA	US	318	1999-10-11	No
-339	Boston	USBOS	Massachusetts	MA	US
+339	Boston	USBOS	Massachusetts	MA	US			
 340	Charlotte Amalie	VICHA	Virgin Islands	VI	US	809	1997-06-01	No
-343	Vankleek Hill	CAVKH	Ontario	ON	CA
+343	Vankleek Hill	CAVKH	Ontario	ON	CA			
 345			Cayman Islands	CI	KY	809	1996-09-01	No
-346	Houston	USHOU	Texas	TX	US
+346	Houston	USHOU	Texas	TX	US			
 347	Brooklyn	USBOY	New York	NY	US	718	1999-10-01	Yes
-351	Danvers	USDVR	Massachusetts	MA	US
+351	Danvers	USDVR	Massachusetts	MA	US			
 352	Gainesville	USGNV	Florida	FL	US	904	1995-12-03	No
 360	Seattle	USSEA	Washington	WA	US	206	1995-01-15	No
 361	Corpus Christi	USCRP	Texas	TX	US	512	1999-02-13	No
-364			Kentucky	KY	US
-365	Tottenham	CATOT	Ontario	ON	CA
-385	Salt Lake City	USSLC	Utah	UT	US
-386	Daytona Beach	USDAB	Florida	FL	US
+364			Kentucky	KY	US			
+365	Tottenham	CATOT	Ontario	ON	CA			
+385	Salt Lake City	USSLC	Utah	UT	US			
+386	Daytona Beach	USDAB	Florida	FL	US			
 401	Providence	USPVD	Rhode Island	RI	US		1952	No
 402	Omaha	USOMA	Nebraska	NE	US		1952	No
 403	Calgary	CACAL	Alberta	AB	CA		1952	No
 404	Atlanta	USATL	Georgia	GA	US		1952	No
 405	Oklahoma City	USOKC	Oklahoma	OK	US		1952	No
 406	Billings	USBIL	Montana	MT	US		1952	No
-407	Orlando	USORL	Florida	FL	US	305	1988-04-16
-408	San Jose	USSJC	California	CA	US	415	1959
-409	Beaumont	USBPT	Texas	TX	US	713	1983/03
-410	Baltimore	USBAL	Maryland	MD	US	301	1991-11-01
+407	Orlando	USORL	Florida	FL	US	305	1988-04-16	
+408	San Jose	USSJC	California	CA	US	415	1959	
+409	Beaumont	USBPT	Texas	TX	US	713	1983/03	
+410	Baltimore	USBAL	Maryland	MD	US	301	1991-11-01	
 412	Pittsburgh	USPIT	Pennsylvania	PA	US		1952	No
 413	Springfield	USSFY	Massachusetts	MA	US		1952	No
 414	Milwaukee	USMKE	Wisconsin	WI	US		1952	No
@@ -109,41 +109,41 @@ areacode	cities	locodes	state name	state	country	parent areacode	introduced	over
 418	Quebec	CAQUE	Quebec	QC	CA		1952	No
 419	Toledo	USTOL	Ohio	OH	US		1952	No
 423	Chattanooga	USCHA	Tennessee	TN	US	615	1995-09-11	No
-424	Los Angeles	USLAX	California	CA	US
+424	Los Angeles	USLAX	California	CA	US			
 425	Seattle	USSEA	Washington	WA	US	206	1997-04-27	No
-430	Longview	USZLV	Texas	TX	US
-431	Winnipeg	CAWNP	Manitoba	MB	CA
-432	Midland	USMAF	Texas	TX	US
-434	Lynchburg	USLYH	Virginia	VA	US
+430	Longview	USZLV	Texas	TX	US			
+431	Winnipeg	CAWNP	Manitoba	MB	CA			
+432	Midland	USMAF	Texas	TX	US			
+434	Lynchburg	USLYH	Virginia	VA	US			
 435	Park City	USPAC	Utah	UT	US	801	1997-09-21	No
-437	Toronto	CATOR	Ontario	ON	CA
-438	Montreal	CAMTR	Quebec	QC	CA
+437	Toronto	CATOR	Ontario	ON	CA			
+438	Montreal	CAMTR	Quebec	QC	CA			
 440	Cleveland	USCLE	Ohio	OH	US	216	1997-08-16	No
 441			Bermuda	BM	BM	809	1995-10-01	No
-442	Victorville	USVCV	California	CA	US
+442	Victorville	USVCV	California	CA	US			
 443	Baltimore	USBAL	Maryland	MD	US	410	1997-06-01	Yes
 450	Laval	CALAV	Quebec	QC	CA	514	1998-06-13	No
-456			Not Applicable	NA	NA
-458	Eugene	USEUG	Oregon	OR	US
+456			Not Applicable	NA	NA			
+458	Eugene	USEUG	Oregon	OR	US			
 469	Dallas	USDAL	Texas	TX	US	214	1999-07-01	Yes
-470	Atlanta	USATL	Georgia	GA	US
+470	Atlanta	USATL	Georgia	GA	US			
 473			Grenada	GD	GD	809	1997-10-31	No
-475	New Haven	USHVN	Connecticut	CT	US
+475	New Haven	USHVN	Connecticut	CT	US			
 478	Macon	USMCN	Georgia	GA	US	912	2000-08-01	No
-479	Springdale	USSPZ	Arkansas	AR	US
+479	Springdale	USSPZ	Arkansas	AR	US			
 480	Phoenix	USPHX	Arizona	AZ	US	602	1999-03-01	No
 484	Philadelphia	USPHL	Pennsylvania	PA	US	610	1999-06-05	Yes
-500			Not Applicable	NA	NA
+500			Not Applicable	NA	NA			
 501	Little Rock	USLIT	Arkansas	AR	US		1952	No
 502	Louisville	USLUI	Kentucky	KY	US		1952	No
 503	Portland	USPDX	Oregon	OR	US		1952	No
 504	New Orleans	USMSY	Louisiana	LA	US		1952	No
 505	Albuquerque	USABQ	New Mexico	NM	US		1952	No
-506	Saint John	CASJB	New Brunswick	NB	CA	902	1955
-507	Rochester	USRST	Minnesota	MN	US	218/612	1954
-508	Boston	USBOS	Massachusetts	MA	US	617	1988-07-16
-509	Spokane	USGEG	Washington	WA	US	206	1957
-510	San Jose	USSJC	California	CA	US	415	1991-09-02
+506	Saint John	CASJB	New Brunswick	NB	CA	902	1955	
+507	Rochester	USRST	Minnesota	MN	US	218/612	1954	
+508	Boston	USBOS	Massachusetts	MA	US	617	1988-07-16	
+509	Spokane	USGEG	Washington	WA	US	206	1957	
+510	San Jose	USSJC	California	CA	US	415	1991-09-02	
 512	Austin	USAUS	Texas	TX	US		1952	No
 513	Cincinnati	USCVG	Ohio	OH	US		1952	No
 514	Montreal	CAMTR	Quebec	QC	CA		1952	No
@@ -151,233 +151,233 @@ areacode	cities	locodes	state name	state	country	parent areacode	introduced	over
 516	Springfield Gardens	USSFG	New York	NY	US		1952	No
 517	Lansing	USLAN	Michigan	MI	US		1952	No
 518	Schenectady	USSCH	New York	NY	US		1952	No
-519	Zurich	CAZUR	Ontario	ON	CA	416/613	1953
+519	Zurich	CAZUR	Ontario	ON	CA	416/613	1953	
 520	Phoenix	USPHX	Arizona	AZ	US	602	1995-03-19	No
 530	Sacramento	USSAC	California	CA	US	916	1997-11-01	No
-531	Lincoln	USLNK	Nebraska	NE	US
-533			Not Applicable	NA	NA
-534	Chippewa Falls	USCPF	Wisconsin	WI	US
-539	Tulsa	USTUL	Oklahoma	OK	US
+531	Lincoln	USLNK	Nebraska	NE	US			
+533			Not Applicable	NA	NA			
+534	Chippewa Falls	USCPF	Wisconsin	WI	US			
+539	Tulsa	USTUL	Oklahoma	OK	US			
 540	Fredericksburg	USFDB	Virginia	VA	US	703	1995-07-15	No
 541	Eugene	USEUG	Oregon	OR	US	503	1995-11-05	No
-544			Not Applicable	NA	NA
-551	Newark	USEWR	New Jersey	NJ	US
+544			Not Applicable	NA	NA			
+551	Newark	USEWR	New Jersey	NJ	US			
 559	Fresno	USFAT	California	CA	US	209	1998-11-14	No
 561	West Palm Beach	USPBI	Florida	FL	US	407	1996-05-13	No
 562	Los Angeles	USLAX	California	CA	US	310	1997-01-25	No
-563	Davenport	USDVN	Iowa	IA	US
-566			Not Applicable	NA	NA
-567	Toledo	USTOL	Ohio	OH	US
+563	Davenport	USDVN	Iowa	IA	US			
+566			Not Applicable	NA	NA			
+567	Toledo	USTOL	Ohio	OH	US			
 570	Wilkes Barre	USWKB	Pennsylvania	PA	US	717	1998-12-05	No
 571	Alexandria	USAXR	Virginia	VA	US	703	2000-03-01	Yes
 573	Columbia	USCOU	Missouri	MO	US	314	1996-01-07	No
-574	South Bend	USSBN	Indiana	IN	US
-575	Las Cruces	USLRU	New Mexico	NM	US
-577			Not Applicable	NA	NA
-579	Waterloo	CAWAO	Quebec	QC	CA
+574	South Bend	USSBN	Indiana	IN	US			
+575	Las Cruces	USLRU	New Mexico	NM	US			
+577			Not Applicable	NA	NA			
+579	Waterloo	CAWAO	Quebec	QC	CA			
 580	Oklahoma City	USOKC	Oklahoma	OK	US	405	1997-11-01	No
-581	Quebec	CAQUE	Quebec	QC	CA
-585	Buffalo	USBUF	New York	NY	US
-586	Detroit	USDET	Michigan	MI	US
-587	Calgary	CACAL	Alberta	AB	CA
-600			Not Applicable	NA	CA
+581	Quebec	CAQUE	Quebec	QC	CA			
+585	Buffalo	USBUF	New York	NY	US			
+586	Detroit	USDET	Michigan	MI	US			
+587	Calgary	CACAL	Alberta	AB	CA			
+600			Not Applicable	NA	CA			
 601	Jackson	USJAN	Mississippi	MS	US		1952	No
 602	Phoenix	USPHX	Arizona	AZ	US		1952	No
 603	Manchester	USMHT	New Hampshire	NH	US		1952	No
 604	Vancouver	CAVAN	British Columbia	BC	CA		1952	No
 605	Sioux Falls	USFSD	South Dakota	SD	US		1952	No
-606	Ashland	USANL	Kentucky	KY	US	502	1954
-607	Binghamton	USBIO	New York	NY	US	315/716	1954
-608	Madison	USMSN	Wisconsin	WI	US	414/715	1955
-609	Camden	USCDE	New Jersey	NJ	US	201	1958
-610	Philadelphia	USPHL	Pennsylvania	PA	US	215	1994-01-08
+606	Ashland	USANL	Kentucky	KY	US	502	1954	
+607	Binghamton	USBIO	New York	NY	US	315/716	1954	
+608	Madison	USMSN	Wisconsin	WI	US	414/715	1955	
+609	Camden	USCDE	New Jersey	NJ	US	201	1958	
+610	Philadelphia	USPHL	Pennsylvania	PA	US	215	1994-01-08	
 612	Minneapolis	USMES	Minnesota	MN	US		1952	No
 613	Ottawa	CAOTT	Ontario	ON	CA		1952	No
 614	Columbus	USCMH	Ohio	OH	US		1952	No
-615	Nashville	USBNA	Tennessee	TN	US	901	1954
+615	Nashville	USBNA	Tennessee	TN	US	901	1954	
 616	Grand Rapids	USGRR	Michigan	MI	US		1952	No
 617	Boston	USBOS	Massachusetts	MA	US		1952	No
 618	Belleville	USBLV	Illinois	IL	US		1952	No
-619	San Diego	USSAN	California	CA	US	714	1982/11
-620	Hutchinson	USHTK	Kansas	KS	US
-622			Not Applicable	NA	NA
+619	San Diego	USSAN	California	CA	US	714	1982/11	
+620	Hutchinson	USHTK	Kansas	KS	US			
+622			Not Applicable	NA	NA			
 623	Phoenix	USPHX	Arizona	AZ	US	602	1999-03-01	No
 626	Los Angeles	USLAX	California	CA	US	818	1997-06-14	No
-628			California	CA	US
-629			Tennessee	TN	US
+628			California	CA	US			
+629			Tennessee	TN	US			
 630	Chicago	USCHI	Illinois	IL	US	708	1996-08-03	No
 631	Deer Park	USDPK	New York	NY	US	516	1999-11-01	No
 636	Saint Louis	USSTL	Missouri	MO	US	314	1999-05-22	No
-639	Regina	CAREG	Saskatchewan	SK	CA
+639	Regina	CAREG	Saskatchewan	SK	CA			
 641	Beaman	USIAZ	Iowa	IA	US	515	2000-07-09	No
 646	Brooklyn	USBOY	New York	NY	US	212	1999-07-01	Yes
-647	Toronto	CATOR	Ontario	ON	CA
+647	Toronto	CATOR	Ontario	ON	CA			
 649			Turks and Caicos Islands	TC	TC	809	1997-06-01	No
 650	San Jose	USSJC	California	CA	US	415	1997-08-02	No
 651	Minneapolis	USMES	Minnesota	MN	US	612	1998-07-12	No
-657	Long Beach	USLGB	California	CA	US
+657	Long Beach	USLGB	California	CA	US			
 660	Otterville	USOIM	Missouri	MO	US	816	1997-10-12	No
 661	Bakersfield	USBFL	California	CA	US	805	1999-02-13	No
 662	Southaven	USSVQ	Mississippi	MS	US	601	1999-04-19	No
 664			Mississippi	MS	US	809	1996-07-01	No
-667	Baltimore	USBAL	Maryland	MD	US
-669	San Jose	USSJC	California	CA	US
+667	Baltimore	USBAL	Maryland	MD	US			
+669	San Jose	USSJC	California	CA	US			
 670	Saipan	MPSPN	Northern Mariana Islands	MP	US		1997-07-01	No
 671	Dededo	GUDED	Guam	GU	US		1997-07-01	No
 678	Atlanta	USATL	Georgia	GA	US	770	1998-01-06	Yes
-681	Charleston	USCRW	West Virginia	WV	US
+681	Charleston	USCRW	West Virginia	WV	US			
 682	Dallas	USDAL	Texas	TX	US	817	2000-10-07	Yes
-684	Pago Pago	ASPPG	American Samoa	AS	US
-700			Not Applicable	NA	NA
+684	Pago Pago	ASPPG	American Samoa	AS	US			
+700			Not Applicable	NA	NA			
 701	Fargo	USFAR	North Dakota	ND	US		1952	No
 702	Las Vegas	USLAS	Nevada	NV	US		1952	No
 703	Alexandria	USAXR	Virginia	VA	US		1952	No
 704	Charlotte	USCLT	North Carolina	NC	US		1952	No
-705	Peterborough	CAPBH	Ontario	ON	CA	613/519	1957
-706	Augusta	USAGS	Georgia	GA	US	404	1992-05-03
-707	Santa Rosa	USSTS	California	CA	US	415	1959
-708	Chicago	USCHI	Illinois	IL	US	312	1989/11
-709	Saint John's	CASJF	Newfoundland and Labrador	NL	CA	506	1962
-710			Not Applicable	NA	NA
+705	Peterborough	CAPBH	Ontario	ON	CA	613/519	1957	
+706	Augusta	USAGS	Georgia	GA	US	404	1992-05-03	
+707	Santa Rosa	USSTS	California	CA	US	415	1959	
+708	Chicago	USCHI	Illinois	IL	US	312	1989/11	
+709	Saint John's	CASJF	Newfoundland and Labrador	NL	CA	506	1962	
+710			Not Applicable	NA	NA			
 712	Sioux City	USSUX	Iowa	IA	US		1952	No
 713	Houston	USHOU	Texas	TX	US		1952	No
 714	Long Beach	USLGB	California	CA	US		1952	No
 715	Green Bay	USGRB	Wisconsin	WI	US		1952	No
 716	Buffalo	USBUF	New York	NY	US		1952	No
 717	Lancaster	USLNS	Pennsylvania	PA	US		1952	No
-718	Brooklyn	USBOY	New York	NY	US	212	1984-09-02
-719	Colorado Springs	USCOS	Colorado	CO	US	303	1988-03-05
+718	Brooklyn	USBOY	New York	NY	US	212	1984-09-02	
+719	Colorado Springs	USCOS	Colorado	CO	US	303	1988-03-05	
 720	Denver	USDEN	Colorado	CO	US	303	1998-06-01	Yes
-721			Saint Martin	MF	MF
+721			Saint Martin	MF	MF			
 724	Pittsburgh	USPIT	Pennsylvania	PA	US	412	1998-02-01	No
-725	Las Vegas	USLAS	Nevada	NV	US
+725	Las Vegas	USLAS	Nevada	NV	US			
 727	Tampa	USTPA	Florida	FL	US	813	1998-07-01	No
-731	Jackson	USMKL	Tennessee	TN	US
+731	Jackson	USMKL	Tennessee	TN	US			
 732	Newark	USEWR	New Jersey	NJ	US	908	1997-06-01	No
 734	Detroit	USDET	Michigan	MI	US	313	1997-12-13	No
-737	Austin	USAUS	Texas	TX	US
+737	Austin	USAUS	Texas	TX	US			
 740	Columbus	USCMH	Ohio	OH	US	614	1997-12-06	No
-747	Los Angeles	USLAX	California	CA	US
-754	Fort Lauderdale	USFLL	Florida	FL	US
+747	Los Angeles	USLAX	California	CA	US			
+754	Fort Lauderdale	USFLL	Florida	FL	US			
 757	Virginia Beach	USVAB	Virginia	VA	US	804	1996-07-01	No
 758			Saint Lucia	LC	LC	809	1996-07-01	No
 760	San Diego	USSAN	California	CA	US	619	1997-03-22	No
-762	Augusta	USAGS	Georgia	GA	US
+762	Augusta	USAGS	Georgia	GA	US			
 763	Minneapolis	USMES	Minnesota	MN	US	612	2000-02-27	No
 765	Indianapolis	USIND	Indiana	IN	US	317	1997-02-01	No
 767			Dominica	DM	DM	809	1997-10-01	No
-769	Jackson	USJAN	Mississippi	MS	US
+769	Jackson	USJAN	Mississippi	MS	US			
 770	Atlanta	USATL	Georgia	GA	US	404	1995-08-01	No
-772	Port Saint Lucie	USPZL	Florida	FL	US
+772	Port Saint Lucie	USPZL	Florida	FL	US			
 773	Chicago	USCHI	Illinois	IL	US	312	1996-10-12	No
-774	Boston	USBOS	Massachusetts	MA	US
+774	Boston	USBOS	Massachusetts	MA	US			
 775	Reno	USRNO	Nevada	NV	US	702	1998-12-12	No
-778	Vancouver	CAVAN	British Columbia	BC	CA
-779	Rockford	USRFD	Illinois	IL	US
+778	Vancouver	CAVAN	British Columbia	BC	CA			
+779	Rockford	USRFD	Illinois	IL	US			
 780	Edmonton	CAEDM	Alberta	AB	CA	403	1999-01-25	No
 781	Boston	USBOS	Massachusetts	MA	US	617	1997-09-01	No
-782			Nova Scotia	NS	CA
+782			Nova Scotia	NS	CA			
 784			Saint Vincent and the Grenadines	VC	VC	809	1998-06-01	No
 785	Topeka	USTOP	Kansas	KS	US	913	1997-07-20	No
 786	Miami	USMIA	Florida	FL	US	305	1998-03-01	Yes
 787	San Juan	PRSJU	Puerto Rico	PR	US	809	1996-03-01	No
-800			Not Applicable	NA	NA
+800			Not Applicable	NA	NA			
 801	Salt Lake City	USSLC	Utah	UT	US		1952	No
 802	Shelburne	USSB8	Vermont	VT	US		1952	No
 803	Columbia	USCAE	South Carolina	SC	US		1952	No
-804	Richmond	USRIC	Virginia	VA	US	703	1973-06-24
-805	Bakersfield	USBFL	California	CA	US	213/415/916	1957
-806	Lubbock	USLBB	Texas	TX	US	915/817	1957
-807	Thunder Bay	CATHU	Ontario	ON	CA	705	1962
+804	Richmond	USRIC	Virginia	VA	US	703	1973-06-24	
+805	Bakersfield	USBFL	California	CA	US	213/415/916	1957	
+806	Lubbock	USLBB	Texas	TX	US	915/817	1957	
+807	Thunder Bay	CATHU	Ontario	ON	CA	705	1962	
 808	Honolulu	USHNL	Hawaii	HI	US		1957	No
-809			Dominican Republic	DO	DO		1958
-810	Flint	USFNT	Michigan	MI	US	313	1993-12-01
+809			Dominican Republic	DO	DO		1958	
+810	Flint	USFNT	Michigan	MI	US	313	1993-12-01	
 812	Evansville	USEVV	Indiana	IN	US		1952	No
-813	Tampa	USTPA	Florida	FL	US	305	1953
+813	Tampa	USTPA	Florida	FL	US	305	1953	
 814	Erie	USERI	Pennsylvania	PA	US		1952	No
 815	Chicago	USCHI	Illinois	IL	US		1952	No
 816	Kansas City	USMKC	Missouri	MO	US		1952	No
-817	Dallas	USDAL	Texas	TX	US	915/214	1953
-818	Los Angeles	USLAX	California	CA	US	213	1984/01
-819	Yamachiche	CAZYE	Quebec	QC	CA	514/418	1957
+817	Dallas	USDAL	Texas	TX	US	915/214	1953	
+818	Los Angeles	USLAX	California	CA	US	213	1984/01	
+819	Yamachiche	CAZYE	Quebec	QC	CA	514/418	1957	
 828	Asheville	USAEV	North Carolina	NC	US	704	1998-03-22	No
-829			Dominican Republic	DO	DO
+829			Dominican Republic	DO	DO			
 830	New Braunfels	USNHB	Texas	TX	US	210	1997-07-07	No
 831	Salinas	USSNS	California	CA	US	408	1998-07-11	No
 832	Houston	USHOU	Texas	TX	US	713	1999-01-16	Yes
 843	Charleston	USCHS	South Carolina	SC	US	803	1998-03-22	No
-844			Not Applicable	NA	NA
+844			Not Applicable	NA	NA			
 845	Poughkeepsie	USPOU	New York	NY	US	914	2000-06-05	No
 847	Chicago	USCHI	Illinois	IL	US	708	1996-01-20	No
-848	Newark	USEWR	New Jersey	NJ	US
-849			Dominican Republic	DO	DO
+848	Newark	USEWR	New Jersey	NJ	US			
+849			Dominican Republic	DO	DO			
 850	Pensacola	USPNS	Florida	FL	US	904	1997-06-23	No
-855			Not Applicable	NA	NA
+855			Not Applicable	NA	NA			
 856	Camden	USCDE	New Jersey	NJ	US	609	1999-06-12	No
-857	Boston	USBOS	Massachusetts	MA	US
+857	Boston	USBOS	Massachusetts	MA	US			
 858	San Diego	USSAN	California	CA	US	619	1999-06-12	No
 859	Lexington	USLEX	Kentucky	KY	US	606	2000-04-01	No
 860	Hartford	USHFD	Connecticut	CT	US	203	1995-08-28	No
-862	Newark	USEWR	New Jersey	NJ	US
+862	Newark	USEWR	New Jersey	NJ	US			
 863	Kissimmee	USISM	Florida	FL	US	941	1999-09-20	No
 864	Greenville	USGV9	South Carolina	SC	US	803	1995-12-03	No
 865	Knoxville	USTYS	Tennessee	TN	US	423	1999-11-01	No
-866			Not Applicable	NA	NA		2000-07-29
+866			Not Applicable	NA	NA		2000-07-29	
 867	Yellowknife	CAYZF	Yukon	YT	CA	403	1997-10-21	No
 868			Trinidad and Tobago	TT	TT	809	1997-06-01	No
 869			Saint Kitts and Nevis	KN	KN	809	1996-10-01	No
 870	Jonesboro	USJBR	Arkansas	AR	US	501	1997-04-14	No
-872	Chicago	USCHI	Illinois	IL	US
-873	Sherbrooke	CASBR	Quebec	QC	CA
+872	Chicago	USCHI	Illinois	IL	US			
+873	Sherbrooke	CASBR	Quebec	QC	CA			
 876			Jamaica	JM	JM	809	1997-05-01	No
-877			Not Applicable	NA	NA		1998-04-08
-878	Pittsburgh	USPIT	Pennsylvania	PA	US
-888			Not Applicable	NA	NA		1996-03-01
-900			Not Applicable	NA	NA
+877			Not Applicable	NA	NA		1998-04-08	
+878	Pittsburgh	USPIT	Pennsylvania	PA	US			
+888			Not Applicable	NA	NA		1996-03-01	
+900			Not Applicable	NA	NA			
 901	Memphis	USMEM	Tennessee	TN	US		1952	No
 902	Yarmouth	CAYRH	Nova Scotia	NS	CA		1952	No
-903	Tyler	USTYR	Texas	TX	US	214	1990-11-04
-904	Jacksonville	USJAX	Florida	FL	US	305	1965/07
-905	Woodbridge	CAWDB	Ontario	ON	CA	416	1993-10-04
-906	Marquette	USMQT	Michigan	MI	US	616	1961
+903	Tyler	USTYR	Texas	TX	US	214	1990-11-04	
+904	Jacksonville	USJAX	Florida	FL	US	305	1965/07	
+905	Woodbridge	CAWDB	Ontario	ON	CA	416	1993-10-04	
+906	Marquette	USMQT	Michigan	MI	US	616	1961	
 907	Anchorage	USANC	Alaska	AK	US		1957	No
-908	Newark	USEWR	New Jersey	NJ	US	201	1991-01-01
-909	Riverside	USRAL	California	CA	US	714	1992-11-14
-910	Fayetteville	USFAY	North Carolina	NC	US	919	1993-11-14
-912	Savannah	USSAV	Georgia	GA	US	404	1954
+908	Newark	USEWR	New Jersey	NJ	US	201	1991-01-01	
+909	Riverside	USRAL	California	CA	US	714	1992-11-14	
+910	Fayetteville	USFAY	North Carolina	NC	US	919	1993-11-14	
+912	Savannah	USSAV	Georgia	GA	US	404	1954	
 913	Kansas City	USKCK	Kansas	KS	US		1952	No
 914	White Plains	USWTS	New York	NY	US		1952	No
 915	El Paso	USELP	Texas	TX	US		1952	No
 916	Sacramento	USSAC	California	CA	US		1952	No
 917	Brooklyn	USBOY	New York	NY	US	212/718	1992-01-01	Yes
-918	Tulsa	USTUL	Oklahoma	OK	US	405	1953
-919	Raleigh	USRAG	North Carolina	NC	US	704	1954
+918	Tulsa	USTUL	Oklahoma	OK	US	405	1953	
+919	Raleigh	USRAG	North Carolina	NC	US	704	1954	
 920	Milwaukee	USMKE	Wisconsin	WI	US	414	1997-07-26	No
 925	Oakland	USOAK	California	CA	US	510	1998-03-14	No
-928	Phoenix	USPHX	Arizona	AZ	US
-929	Brooklyn	USBOY	New York	NY	US
-930			Indiana	IN	US
+928	Phoenix	USPHX	Arizona	AZ	US			
+929	Brooklyn	USBOY	New York	NY	US			
+930			Indiana	IN	US			
 931	Clarksville	USCKV	Tennessee	TN	US	615	1997-09-15	No
 936	Conroe	USCXO	Texas	TX	US	409	2000-02-19	No
 937	Dayton	USDAY	Ohio	OH	US	513	1996-09-28	No
-938	Goodwater	USGWT	Alabama	AL	US
-939	Bayamon	PRBAY	Puerto Rico	PR	US
+938	Goodwater	USGWT	Alabama	AL	US			
+939	Bayamon	PRBAY	Puerto Rico	PR	US			
 940	Denton	USDTN	Texas	TX	US	817	1997-05-25	No
 941	Sarasota	USZOR	Florida	FL	US	813	1995-05-28	No
-947	Southfield	USSFJ	Michigan	MI	US
+947	Southfield	USSFJ	Michigan	MI	US			
 949	Santa Ana	USSNA	California	CA	US	714	1998-04-18	No
-951	Riverside	USRAL	California	CA	US
+951	Riverside	USRAL	California	CA	US			
 952	Minneapolis	USMES	Minnesota	MN	US	612	2000-02-27	No
 954	Fort Lauderdale	USFLL	Florida	FL	US	305	1995-09-11	No
 956	Laredo	USLRD	Texas	TX	US	210	1997-07-07	No
-959			Connecticut	CT	US
+959			Connecticut	CT	US			
 970	Fort Collins	USFNL	Colorado	CO	US	303	1995-04-02	No
 971	Portland	USPDX	Oregon	OR	US	503	2000-10-01	Yes
 972	Dallas	USDAL	Texas	TX	US	214	1996-09-14	Yes
 973	Newark	USEWR	New Jersey	NJ	US	201	1997-06-01	No
 978	Boston	USBOS	Massachusetts	MA	US	508	1997-09-01	No
 979	College Station	USCLL	Texas	TX	US	409	2000-02-19	No
-980	Charlotte	USCLT	North Carolina	NC	US
-984	Raleigh	USRAG	North Carolina	NC	US
-985	New Orleans	USMSY	Louisiana	LA	US
-989	Saginaw	USSGM	Michigan	MI	US
+980	Charlotte	USCLT	North Carolina	NC	US			
+984	Raleigh	USRAG	North Carolina	NC	US			
+985	New Orleans	USMSY	Louisiana	LA	US			
+989	Saginaw	USSGM	Michigan	MI	US			
