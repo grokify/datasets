@@ -76,7 +76,7 @@ areacode	cities	locodes	state name	state	country	parent areacode	introduced	over
 334	Montgomery	USMGM	Alabama	AL	US	205	1995-01-15	No
 336	Greensboro	USGBO	North Carolina	NC	US	910	1997-12-15	No
 337	Lafayette	USLFT	Louisiana	LA	US	318	1999-10-11	No
-339	Boston	USBOS	Massachusetts	MA	US			
+339	Boston	USBOS	Massachusetts	MA	US	781		Yes
 340	Charlotte Amalie	VICHA	Virgin Islands	VI	US	809	1997-06-01	No
 343	Vankleek Hill	CAVKH	Ontario	ON	CA			
 345	George Town	KYGEC	Cayman Islands	CI	KY	809	1996-09-01	No
@@ -314,7 +314,7 @@ areacode	cities	locodes	state name	state	country	parent areacode	introduced	over
 850	Pensacola	USPNS	Florida	FL	US	904	1997-06-23	No
 855			Not Applicable	NA	NA			
 856	Camden	USCDE	New Jersey	NJ	US	609	1999-06-12	No
-857	Boston	USBOS	Massachusetts	MA	US			
+857	Boston	USBOS	Massachusetts	MA	US	617		Yes
 858	San Diego	USSAN	California	CA	US	619	1999-06-12	No
 859	Lexington	USLEX	Kentucky	KY	US	606	2000-04-01	No
 860	Hartford	USHFD	Connecticut	CT	US	203	1995-08-28	No
